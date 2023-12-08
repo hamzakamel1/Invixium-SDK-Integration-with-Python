@@ -1,0 +1,1481 @@
+2023-12-06 16:06:58,711 - INFO - Check if date file exists.
+2023-12-06 16:07:30,800 - INFO - Check if date file exists.
+2023-12-06 16:07:30,822 - INFO - Checking device status for IP: 192.168.200.143
+2023-12-06 16:07:30,879 - INFO - Device status: True
+2023-12-06 16:07:30,879 - INFO - Establishing a network connection to IP: 192.168.200.143
+2023-12-06 16:07:30,915 - INFO - Network connection established: True
+2023-12-06 16:07:30,915 - INFO - Retrieving transaction logs for IP: 192.168.200.143 from 2023-12-05 16:07:30.800685 to 2023-12-06 16:07:30.800685
+2023-12-06 16:07:30,915 - ERROR - Error getting transaction logs: 'NetworkConnection' object has no attribute 'RebootDeviceGracefully'
+2023-12-06 16:07:30,915 - INFO - Finished
+2023-12-06 16:12:07,838 - INFO - Check if date file exists.
+2023-12-06 16:12:07,847 - INFO - Checking device status for IP: 192.168.200.143
+2023-12-06 16:12:07,879 - INFO - Device status: True
+2023-12-06 16:12:07,879 - INFO - Establishing a network connection to IP: 192.168.200.143
+2023-12-06 16:12:07,906 - INFO - Network connection established: True
+2023-12-06 16:12:07,906 - INFO - Retrieving transaction logs for IP: 192.168.200.143 from 2023-12-05 16:12:07.838486 to 2023-12-06 16:12:07.838486
+2023-12-06 16:12:07,906 - ERROR - Error getting transaction logs: 'NetworkConnection' object has no attribute 'RebootDeviceGracefully'
+2023-12-06 16:12:07,928 - INFO - Finished
+2023-12-06 16:16:40,964 - INFO - Check if date file exists.
+2023-12-06 16:16:40,967 - INFO - Checking device status for IP: 192.168.200.143
+2023-12-06 16:16:41,033 - INFO - Device status: True
+2023-12-06 16:16:41,033 - INFO - Establishing a network connection to IP: 192.168.200.143
+2023-12-06 16:16:41,054 - INFO - Network connection established: True
+2023-12-06 16:16:41,064 - INFO - Retrieving transaction logs for IP: 192.168.200.143 from 2023-12-05 16:16:40.964363 to 2023-12-06 16:16:40.964363
+2023-12-06 16:16:41,064 - ERROR - Error getting transaction logs: 'NetworkConnection' object has no attribute 'GetAllDateWiseTransactionLogCount'
+2023-12-06 16:16:41,066 - INFO - Finished
+2023-12-06 16:31:16,233 - INFO - Check if date file exists.
+2023-12-06 16:31:16,242 - INFO - Checking device status for IP: 192.168.200.143
+2023-12-06 16:31:16,322 - INFO - Device status: True
+2023-12-06 16:31:16,322 - INFO - Establishing a network connection to IP: 192.168.200.143
+2023-12-06 16:31:16,367 - INFO - Network connection established: True
+2023-12-06 16:31:16,367 - INFO - Retrieving transaction logs for IP: 192.168.200.143 from 2023-12-05 16:31:16.233656 to 2023-12-06 16:31:16.233656
+2023-12-06 16:31:16,367 - ERROR - Error getting transaction logs: 'NetworkConnection' object has no attribute 'RebootDeviceGracefully'
+2023-12-06 16:31:16,367 - INFO - Finished
+2023-12-06 16:31:43,275 - INFO - Check if date file exists.
+2023-12-06 16:31:43,281 - INFO - Checking device status for IP: 192.168.200.143
+2023-12-06 16:31:43,332 - INFO - Device status: True
+2023-12-06 16:31:43,332 - INFO - Establishing a network connection to IP: 192.168.200.143
+2023-12-06 16:31:43,357 - INFO - Network connection established: True
+2023-12-06 16:31:43,357 - INFO - Retrieving transaction logs for IP: 192.168.200.143 from 2023-12-05 16:31:43.275707 to 2023-12-06 16:31:43.275707
+2023-12-06 16:31:43,357 - ERROR - Error getting transaction logs: 'NetworkConnection' object has no attribute 'RebootDeviceGracefully'
+2023-12-06 16:31:43,357 - INFO - Finished
+2023-12-06 16:33:49,689 - INFO - Check if date file exists.
+2023-12-06 16:33:49,689 - INFO - Checking device status for IP: 192.168.200.143
+2023-12-06 16:33:49,730 - INFO - Device status: True
+2023-12-06 16:33:49,730 - INFO - Establishing a network connection to IP: 192.168.200.143
+2023-12-06 16:33:49,757 - INFO - Network connection established: True
+2023-12-06 16:33:49,757 - INFO - Retrieving transaction logs for IP: 192.168.200.143 from 2023-12-05 16:33:49.689824 to 2023-12-06 16:33:49.689824
+2023-12-06 16:33:49,757 - ERROR - Error getting transaction logs: 'NetworkConnection' object has no attribute 'GetAllDateWiseTransactionLogCount'
+2023-12-06 16:33:49,773 - INFO - Finished
+2023-12-06 16:40:18,146 - INFO - Check if date file exists.
+2023-12-06 16:40:18,150 - INFO - Checking device status for IP: 192.168.200.143
+2023-12-06 16:40:18,194 - INFO - Device status: True
+2023-12-06 16:40:18,194 - INFO - Establishing a network connection to IP: 192.168.200.143
+2023-12-06 16:40:18,212 - INFO - Network connection established: True
+2023-12-06 16:40:18,212 - INFO - Retrieving transaction logs for IP: 192.168.200.143 from 2023-12-05 16:40:18.146391 to 2023-12-06 16:40:18.146391
+2023-12-06 16:40:18,212 - INFO - Finished
+2023-12-06 16:47:30,917 - INFO - Check if date file exists.
+2023-12-06 16:47:30,917 - INFO - Checking device status for IP: 192.168.200.143
+2023-12-06 16:47:30,990 - INFO - Device status: True
+2023-12-06 16:47:30,990 - INFO - Establishing a network connection to IP: 192.168.200.143
+2023-12-06 16:47:31,008 - INFO - Network connection established: True
+2023-12-06 16:47:31,008 - INFO - Retrieving transaction logs for IP: 192.168.200.143 from 2023-12-05 16:47:30.917411 to 2023-12-06 16:47:30.917411
+2023-12-06 16:47:31,008 - ERROR - Error getting transaction logs: name 'TransactionLogArg' is not defined
+2023-12-06 16:47:31,008 - INFO - Finished
+2023-12-06 19:38:34,808 - INFO - Check if date file exists.
+2023-12-06 19:38:34,823 - INFO - Checking device status for IP: 192.168.200.143
+2023-12-06 19:38:34,850 - INFO - Device status: True
+2023-12-06 19:38:34,850 - INFO - Establishing a network connection to IP: 192.168.200.143
+2023-12-06 19:38:34,874 - INFO - Network connection established: True
+2023-12-06 19:38:34,874 - INFO - Retrieving transaction logs for IP: 192.168.200.143 from 2023-12-05 19:38:34.808367 to 2023-12-06 19:38:34.808367
+2023-12-06 19:38:34,874 - ERROR - Error getting transaction logs: name 'TransactionLogArg' is not defined
+2023-12-06 19:38:34,878 - INFO - Finished
+2023-12-06 19:44:20,027 - INFO - Check if date file exists.
+2023-12-06 19:44:20,027 - INFO - Checking device status for IP: 192.168.200.143
+2023-12-06 19:44:20,080 - INFO - Device status: True
+2023-12-06 19:44:20,080 - INFO - Establishing a network connection to IP: 192.168.200.143
+2023-12-06 19:44:20,109 - INFO - Network connection established: True
+2023-12-06 19:44:20,109 - INFO - Retrieving transaction logs for IP: 192.168.200.143 from 2023-12-05 19:44:20.027407 to 2023-12-06 19:44:20.027407
+2023-12-06 19:44:20,109 - ERROR - Error getting transaction logs: interface takes exactly one argument
+2023-12-06 19:44:20,109 - INFO - Finished
+2023-12-06 19:45:59,230 - INFO - Check if date file exists.
+2023-12-06 19:45:59,253 - INFO - Checking device status for IP: 192.168.200.143
+2023-12-06 19:45:59,290 - INFO - Device status: True
+2023-12-06 19:45:59,290 - INFO - Establishing a network connection to IP: 192.168.200.143
+2023-12-06 19:45:59,321 - INFO - Network connection established: True
+2023-12-06 19:45:59,330 - INFO - Retrieving transaction logs for IP: 192.168.200.143 from 2023-12-05 19:45:59.230790 to 2023-12-06 19:45:59.230790
+2023-12-06 19:45:59,330 - ERROR - Error getting transaction logs: interface takes exactly one argument
+2023-12-06 19:45:59,333 - INFO - Finished
+2023-12-06 19:48:29,422 - INFO - Check if date file exists.
+2023-12-06 19:48:29,422 - INFO - Checking device status for IP: 192.168.200.143
+2023-12-06 19:48:29,481 - INFO - Device status: True
+2023-12-06 19:48:29,482 - INFO - Establishing a network connection to IP: 192.168.200.143
+2023-12-06 19:48:29,508 - INFO - Network connection established: True
+2023-12-06 19:48:29,508 - INFO - Retrieving transaction logs for IP: 192.168.200.143 from 2023-12-05 19:48:29.422089 to 2023-12-06 19:48:29.422089
+2023-12-06 19:48:29,508 - ERROR - Error getting transaction logs: interface takes exactly one argument
+2023-12-06 19:48:29,518 - INFO - Finished
+2023-12-06 19:50:40,726 - INFO - Check if date file exists.
+2023-12-06 19:50:40,726 - INFO - Checking device status for IP: 192.168.200.143
+2023-12-06 19:50:40,759 - INFO - Device status: True
+2023-12-06 19:50:40,759 - INFO - Establishing a network connection to IP: 192.168.200.143
+2023-12-06 19:50:40,789 - INFO - Network connection established: True
+2023-12-06 19:50:40,789 - INFO - Retrieving transaction logs for IP: 192.168.200.143 from 2023-12-05 19:50:40.726333 to 2023-12-06 19:50:40.726333
+2023-12-06 19:50:40,789 - ERROR - Error getting transaction logs: interface takes exactly one argument
+2023-12-06 19:50:40,789 - INFO - Finished
+2023-12-06 19:55:34,458 - INFO - Check if date file exists.
+2023-12-06 19:55:34,458 - INFO - Checking device status for IP: 192.168.200.143
+2023-12-06 19:55:34,511 - INFO - Device status: True
+2023-12-06 19:55:34,511 - INFO - Establishing a network connection to IP: 192.168.200.143
+2023-12-06 19:55:34,536 - INFO - Network connection established: True
+2023-12-06 19:55:34,536 - INFO - Retrieving transaction logs for IP: 192.168.200.143 from 2023-12-05 19:55:34.458732 to 2023-12-06 19:55:34.458732
+2023-12-06 19:55:34,536 - ERROR - Error getting transaction logs: interface takes exactly one argument
+2023-12-06 19:55:34,536 - INFO - Finished
+2023-12-06 19:57:27,471 - INFO - Check if date file exists.
+2023-12-06 19:57:27,486 - INFO - Checking device status for IP: 192.168.200.143
+2023-12-06 19:57:27,556 - INFO - Device status: True
+2023-12-06 19:57:27,556 - INFO - Establishing a network connection to IP: 192.168.200.143
+2023-12-06 19:57:27,572 - INFO - Network connection established: True
+2023-12-06 19:57:27,572 - INFO - Retrieving transaction logs for IP: 192.168.200.143 from 2023-12-05 19:57:27.471263 to 2023-12-06 19:57:27.471263
+2023-12-06 19:57:27,581 - ERROR - Error getting transaction logs: interface takes exactly one argument
+2023-12-06 19:57:27,597 - INFO - Finished
+2023-12-06 19:58:55,147 - INFO - Check if date file exists.
+2023-12-06 19:58:55,165 - INFO - Checking device status for IP: 192.168.200.143
+2023-12-06 19:58:55,205 - INFO - Device status: True
+2023-12-06 19:58:55,205 - INFO - Establishing a network connection to IP: 192.168.200.143
+2023-12-06 19:58:55,236 - INFO - Network connection established: True
+2023-12-06 19:58:55,236 - INFO - Retrieving transaction logs for IP: 192.168.200.143 from 2023-12-05 19:58:55.147875 to 2023-12-06 19:58:55.147875
+2023-12-06 19:58:55,236 - ERROR - Error getting transaction logs: interface takes exactly one argument
+2023-12-06 19:58:55,236 - INFO - Finished
+2023-12-06 20:00:30,355 - INFO - Check if date file exists.
+2023-12-06 20:00:30,369 - INFO - Checking device status for IP: 192.168.200.143
+2023-12-06 20:00:30,402 - INFO - Device status: True
+2023-12-06 20:00:30,402 - INFO - Establishing a network connection to IP: 192.168.200.143
+2023-12-06 20:00:30,435 - INFO - Network connection established: True
+2023-12-06 20:00:30,435 - INFO - Retrieving transaction logs for IP: 192.168.200.143 from 2023-12-05 20:00:30.355004 to 2023-12-06 20:00:30.355004
+2023-12-06 20:00:30,435 - ERROR - Error getting transaction logs: interface takes exactly one argument
+2023-12-06 20:00:30,435 - INFO - Finished
+2023-12-06 20:05:26,734 - INFO - Check if date file exists.
+2023-12-06 20:05:26,749 - INFO - Checking device status for IP: 192.168.200.143
+2023-12-06 20:05:26,780 - INFO - Device status: True
+2023-12-06 20:05:26,780 - INFO - Establishing a network connection to IP: 192.168.200.143
+2023-12-06 20:05:26,802 - INFO - Network connection established: True
+2023-12-06 20:05:26,802 - INFO - Retrieving transaction logs for IP: 192.168.200.143 from 2023-12-05 20:05:26.734020 to 2023-12-06 20:05:26.734020
+2023-12-06 20:05:26,807 - ERROR - Error getting transaction logs: interface takes exactly one argument
+2023-12-06 20:05:26,809 - INFO - Finished
+2023-12-06 20:14:20,127 - INFO - Check if date file exists.
+2023-12-06 20:14:20,127 - INFO - Checking device status for IP: 192.168.200.143
+2023-12-06 20:14:20,183 - INFO - Device status: True
+2023-12-06 20:14:20,183 - INFO - Establishing a network connection to IP: 192.168.200.143
+2023-12-06 20:14:20,211 - INFO - Network connection established: True
+2023-12-06 20:14:20,211 - INFO - Retrieving transaction logs for IP: 192.168.200.143 from 2023-12-05 20:14:20.127111 to 2023-12-06 20:14:20.127111
+2023-12-06 20:14:20,211 - ERROR - Error getting transaction logs: interface takes exactly one argument
+2023-12-06 20:14:20,211 - INFO - Total logs retrieved: 0
+2023-12-06 20:14:20,211 - INFO - Finished
+2023-12-07 08:21:12,261 - INFO - Check if date file exists.
+2023-12-07 08:21:12,276 - INFO - Checking device status for IP: 192.168.200.143
+2023-12-07 08:21:12,311 - INFO - Device status: True
+2023-12-07 08:21:12,311 - INFO - Establishing a network connection to IP: 192.168.200.143
+2023-12-07 08:21:12,333 - INFO - Network connection established: True
+2023-12-07 08:21:12,333 - INFO - Retrieving transaction logs for IP: 192.168.200.143 from 2023-12-06 08:21:12.261429 to 2023-12-07 08:21:12.261429
+2023-12-07 08:21:12,333 - ERROR - Error during network communication: name 'TransactionLogArg' is not defined
+2023-12-07 08:25:38,078 - INFO - Check if date file exists.
+2023-12-07 08:25:38,078 - INFO - Checking device status for IP: 192.168.200.143
+2023-12-07 08:25:38,113 - INFO - Device status: True
+2023-12-07 08:25:38,113 - INFO - Establishing a network connection to IP: 192.168.200.143
+2023-12-07 08:25:38,139 - INFO - Network connection established: True
+2023-12-07 08:25:38,139 - INFO - Retrieving transaction logs for IP: 192.168.200.143 from 2023-12-06 08:25:38.078046 to 2023-12-07 08:25:38.078046
+2023-12-07 08:25:38,143 - ERROR - Error during network communication: name 'TransactionLogArg' is not defined
+2023-12-07 08:25:38,143 - INFO - Total logs retrieved: 0
+2023-12-07 08:25:38,144 - INFO - Finished
+2023-12-07 08:35:38,669 - INFO - Check if date file exists.
+2023-12-07 08:35:38,669 - INFO - Checking device status for IP: 192.168.200.143
+2023-12-07 08:35:38,724 - INFO - Device status: True
+2023-12-07 08:35:38,724 - INFO - Establishing a network connection to IP: 192.168.200.143
+2023-12-07 08:35:38,742 - INFO - Network connection established: True
+2023-12-07 08:35:38,742 - INFO - Retrieving transaction logs for IP: 192.168.200.143 from 2023-12-06 08:35:38.669255 to 2023-12-07 08:35:38.669255
+2023-12-07 08:35:38,742 - ERROR - Error during network communication: interface takes exactly one argument
+2023-12-07 08:35:38,742 - INFO - Total logs retrieved: 0
+2023-12-07 08:35:38,742 - INFO - Finished
+2023-12-07 08:36:57,736 - INFO - Check if date file exists.
+2023-12-07 08:36:57,736 - INFO - Checking device status for IP: 192.168.200.143
+2023-12-07 08:36:57,768 - INFO - Device status: True
+2023-12-07 08:36:57,768 - INFO - Establishing a network connection to IP: 192.168.200.143
+2023-12-07 08:36:57,791 - INFO - Network connection established: True
+2023-12-07 08:36:57,791 - INFO - Retrieving transaction logs for IP: 192.168.200.143 from 2023-12-06 08:36:57.736495 to 2023-12-07 08:36:57.736495
+2023-12-07 08:36:57,791 - ERROR - Error during network communication: name 'TransactionLogArg' is not defined
+2023-12-07 08:36:57,791 - INFO - Total logs retrieved: 0
+2023-12-07 08:36:57,791 - INFO - Finished
+2023-12-07 09:22:12,987 - INFO - Check if date file exists.
+2023-12-07 09:22:12,987 - INFO - Checking device status for IP: 192.168.200.143
+2023-12-07 09:22:13,032 - INFO - Device status: True
+2023-12-07 09:22:13,032 - INFO - Establishing a network connection to IP: 192.168.200.143
+2023-12-07 09:22:13,054 - INFO - Network connection established: True
+2023-12-07 09:22:13,054 - INFO - Retrieving transaction logs for IP: 192.168.200.143 from 2023-12-06 09:22:12.987561 to 2023-12-07 09:22:12.987561
+2023-12-07 09:22:13,065 - ERROR - Error during network communication: No method matches given arguments for TransactionLogArg..ctor: ()
+2023-12-07 09:22:13,065 - INFO - Total logs retrieved: 0
+2023-12-07 09:22:13,065 - INFO - Finished
+2023-12-07 09:29:35,732 - INFO - Check if date file exists.
+2023-12-07 09:29:35,745 - INFO - Checking device status for IP: 192.168.200.143
+2023-12-07 09:29:35,768 - INFO - Device status: True
+2023-12-07 09:29:35,768 - INFO - Establishing a network connection to IP: 192.168.200.143
+2023-12-07 09:29:35,778 - INFO - Network connection established: True
+2023-12-07 09:29:35,778 - INFO - Retrieving transaction logs for IP: 192.168.200.143 from 2023-12-06 09:29:35.732116 to 2023-12-07 09:29:35.732116
+2023-12-07 09:29:35,792 - ERROR - Error during network communication: No method matches given arguments for TransactionLogArg..ctor: ()
+2023-12-07 09:29:35,792 - INFO - Total logs retrieved: 0
+2023-12-07 09:29:35,792 - INFO - Finished
+2023-12-07 09:31:58,585 - INFO - Check if date file exists.
+2023-12-07 09:31:58,591 - INFO - Checking device status for IP: 192.168.200.143
+2023-12-07 09:31:58,615 - INFO - Device status: True
+2023-12-07 09:31:58,615 - INFO - Establishing a network connection to IP: 192.168.200.143
+2023-12-07 09:31:58,651 - INFO - Network connection established: True
+2023-12-07 09:31:58,651 - INFO - Retrieving transaction logs for IP: 192.168.200.143 from 2023-12-06 09:31:58.585525 to 2023-12-07 09:31:58.585525
+2023-12-07 09:31:58,651 - ERROR - Error during network communication: No method matches given arguments for TransactionLogArg..ctor: ()
+2023-12-07 09:31:58,651 - INFO - Total logs retrieved: 0
+2023-12-07 09:31:58,651 - INFO - Finished
+2023-12-07 11:22:38,005 - INFO - Check if date file exists.
+2023-12-07 11:22:38,021 - INFO - Checking device status for IP: 192.168.200.143
+2023-12-07 11:22:38,076 - INFO - Device status: True
+2023-12-07 11:22:38,076 - INFO - Establishing a network connection to IP: 192.168.200.143
+2023-12-07 11:22:38,142 - INFO - Network connection established: True
+2023-12-07 11:22:38,144 - INFO - Retrieving transaction logs for IP: 192.168.200.143 from 2023-12-06 11:22:38.005123 to 2023-12-07 11:22:38.005123
+2023-12-07 11:22:38,152 - ERROR - Error during network communication: No method matches given arguments for TransactionLogArg..ctor: ()
+2023-12-07 11:22:38,152 - INFO - Total logs retrieved: 0
+2023-12-07 11:22:38,155 - INFO - Finished
+2023-12-07 11:28:31,047 - INFO - Check if date file exists.
+2023-12-07 11:28:31,055 - INFO - Checking device status for IP: 192.168.200.143
+2023-12-07 11:28:31,100 - INFO - Device status: True
+2023-12-07 11:28:31,100 - INFO - Establishing a network connection to IP: 192.168.200.143
+2023-12-07 11:28:31,147 - INFO - Network connection established: True
+2023-12-07 11:28:31,147 - INFO - Retrieving transaction logs for IP: 192.168.200.143 from 2023-12-06 11:28:31.047652 to 2023-12-07 11:28:31.047652
+2023-12-07 11:28:31,153 - ERROR - Error during network communication: No method matches given arguments for TransactionLogArg..ctor: ()
+2023-12-07 11:28:31,153 - INFO - Total logs retrieved: 0
+2023-12-07 11:28:31,155 - INFO - Finished
+2023-12-07 11:28:48,116 - INFO - Check if date file exists.
+2023-12-07 11:28:48,125 - INFO - Checking device status for IP: 192.168.200.143
+2023-12-07 11:28:48,175 - INFO - Device status: True
+2023-12-07 11:28:48,175 - INFO - Establishing a network connection to IP: 192.168.200.143
+2023-12-07 11:28:48,221 - INFO - Network connection established: True
+2023-12-07 11:28:48,221 - INFO - Retrieving transaction logs for IP: 192.168.200.143 from 2023-12-06 11:28:48.116655 to 2023-12-07 11:28:48.116655
+2023-12-07 11:28:48,225 - ERROR - Error during network communication: No method matches given arguments for TransactionLogArg..ctor: ()
+2023-12-07 11:28:48,225 - INFO - Total logs retrieved: 0
+2023-12-07 11:28:48,225 - INFO - Finished
+2023-12-07 11:30:04,239 - INFO - Check if date file exists.
+2023-12-07 11:30:04,245 - INFO - Checking device status for IP: 192.168.200.143
+2023-12-07 11:30:04,283 - INFO - Device status: True
+2023-12-07 11:30:04,283 - INFO - Establishing a network connection to IP: 192.168.200.143
+2023-12-07 11:30:04,327 - INFO - Network connection established: True
+2023-12-07 11:30:04,327 - INFO - Retrieving transaction logs for IP: 192.168.200.143 from 2023-12-06 11:30:04.239139 to 2023-12-07 11:30:04.239139
+2023-12-07 11:30:04,330 - ERROR - Error during network communication: No method matches given arguments for TransactionLogArg..ctor: ()
+2023-12-07 11:30:04,330 - INFO - Total logs retrieved: 0
+2023-12-07 11:30:04,330 - INFO - Finished
+2023-12-07 11:56:20,097 - INFO - Check if date file exists.
+2023-12-07 11:56:20,111 - INFO - Checking device status for IP: 192.168.200.143
+2023-12-07 11:56:20,175 - INFO - Device status: True
+2023-12-07 11:56:20,175 - INFO - Establishing a network connection to IP: 192.168.200.143
+2023-12-07 11:56:20,213 - INFO - Network connection established: True
+2023-12-07 11:56:20,213 - INFO - Retrieving transaction logs for IP: 192.168.200.143 from 2023-12-06 11:56:20.097806 to 2023-12-07 11:56:20.097806
+2023-12-07 11:56:20,216 - ERROR - Error during network communication: No method matches given arguments for TransactionLogArg..ctor: ()
+2023-12-07 11:56:20,216 - INFO - Total logs retrieved: 0
+2023-12-07 11:56:20,216 - INFO - Finished
+2023-12-07 12:05:23,728 - INFO - Check if date file exists.
+2023-12-07 12:05:23,735 - INFO - Checking device status for IP: 192.168.200.143
+2023-12-07 12:05:23,769 - INFO - Device status: True
+2023-12-07 12:05:23,769 - INFO - Establishing a network connection to IP: 192.168.200.143
+2023-12-07 12:05:23,787 - INFO - Network connection established: True
+2023-12-07 12:05:23,795 - INFO - Retrieving transaction logs for IP: 192.168.200.143 from 2023-12-06 12:05:23.728949 to 2023-12-07 12:05:23.728949
+2023-12-07 12:05:23,795 - ERROR - Error during network communication: No method matches given arguments for TransactionLogArg..ctor: ()
+2023-12-07 12:05:23,795 - INFO - Total logs retrieved: 0
+2023-12-07 12:05:23,799 - INFO - Finished
+2023-12-07 12:08:26,647 - INFO - Check if date file exists.
+2023-12-07 12:08:26,656 - INFO - Checking device status for IP: 192.168.200.143
+2023-12-07 12:08:26,742 - INFO - Device status: True
+2023-12-07 12:08:26,742 - INFO - Establishing a network connection to IP: 192.168.200.143
+2023-12-07 12:08:26,798 - INFO - Network connection established: True
+2023-12-07 12:08:26,798 - INFO - Retrieving transaction logs for IP: 192.168.200.143 from 2023-12-06 12:08:26.647680 to 2023-12-07 12:08:26.647680
+2023-12-07 12:08:26,800 - ERROR - Error during network communication: No method matches given arguments for TransactionLogArg..ctor: (<class 'int'>, <class 'int'>, <class 'datetime.datetime'>, <class 'datetime.datetime'>)
+2023-12-07 12:08:26,800 - INFO - Total logs retrieved: 0
+2023-12-07 12:08:26,800 - INFO - Finished
+2023-12-07 12:09:53,346 - INFO - Check if date file exists.
+2023-12-07 12:09:53,356 - INFO - Checking device status for IP: 192.168.200.143
+2023-12-07 12:09:53,405 - INFO - Device status: True
+2023-12-07 12:09:53,405 - INFO - Establishing a network connection to IP: 192.168.200.143
+2023-12-07 12:09:53,449 - INFO - Network connection established: True
+2023-12-07 12:09:53,449 - INFO - Retrieving transaction logs for IP: 192.168.200.143 from 2023-12-06 12:09:53.346180 to 2023-12-07 12:09:53.346180
+2023-12-07 12:09:53,456 - ERROR - Error during network communication: No method matches given arguments for TransactionLogArg..ctor: (<class 'datetime.datetime'>, <class 'datetime.datetime'>)
+2023-12-07 12:09:53,456 - INFO - Total logs retrieved: 0
+2023-12-07 12:09:53,456 - INFO - Finished
+2023-12-07 12:10:20,197 - INFO - Check if date file exists.
+2023-12-07 12:10:20,202 - INFO - Checking device status for IP: 192.168.200.143
+2023-12-07 12:10:20,316 - INFO - Device status: True
+2023-12-07 12:10:20,316 - INFO - Establishing a network connection to IP: 192.168.200.143
+2023-12-07 12:10:20,356 - INFO - Network connection established: True
+2023-12-07 12:10:20,356 - INFO - Retrieving transaction logs for IP: 192.168.200.143 from 2023-12-06 12:10:20.196066 to 2023-12-07 12:10:20.196066
+2023-12-07 12:10:20,361 - ERROR - Error during network communication: No method matches given arguments for TransactionLogArg..ctor: (<class 'datetime.datetime'>, <class 'datetime.datetime'>)
+2023-12-07 12:10:20,361 - INFO - Total logs retrieved: 0
+2023-12-07 12:10:20,362 - INFO - Finished
+2023-12-07 12:11:56,536 - INFO - Check if date file exists.
+2023-12-07 12:11:56,546 - INFO - Checking device status for IP: 192.168.200.143
+2023-12-07 12:11:56,586 - INFO - Device status: True
+2023-12-07 12:11:56,586 - INFO - Establishing a network connection to IP: 192.168.200.143
+2023-12-07 12:11:56,616 - INFO - Network connection established: True
+2023-12-07 12:11:56,616 - INFO - Retrieving transaction logs for IP: 192.168.200.143 from 2023-12-06 12:11:56.536531 to 2023-12-07 12:11:56.536531
+2023-12-07 12:11:56,622 - ERROR - Error during network communication: No method matches given arguments for TransactionLogArg..ctor: ()
+2023-12-07 12:11:56,622 - INFO - Total logs retrieved: 0
+2023-12-07 12:11:56,622 - INFO - Finished
+2023-12-07 12:20:15,887 - INFO - Check if date file exists.
+2023-12-07 12:20:15,898 - INFO - Checking device status for IP: 192.168.200.143
+2023-12-07 12:20:15,927 - INFO - Device status: True
+2023-12-07 12:20:15,927 - INFO - Establishing a network connection to IP: 192.168.200.143
+2023-12-07 12:20:15,979 - INFO - Network connection established: True
+2023-12-07 12:20:15,984 - INFO - Retrieving transaction logs for IP: 192.168.200.143 from 2023-12-06 12:20:15.887264 to 2023-12-07 12:20:15.887264
+2023-12-07 12:20:15,986 - ERROR - Error during network communication: No method matches given arguments for TransactionLogArg..ctor: ()
+2023-12-07 12:20:15,986 - INFO - Total logs retrieved: 0
+2023-12-07 12:20:16,009 - INFO - Finished
+2023-12-07 12:45:27,881 - INFO - Check if date file exists.
+2023-12-07 12:45:27,881 - INFO - Checking device status for IP: 192.168.200.143
+2023-12-07 12:45:27,944 - INFO - Device status: True
+2023-12-07 12:45:27,944 - INFO - Establishing a network connection to IP: 192.168.200.143
+2023-12-07 12:45:27,960 - INFO - Network connection established: True
+2023-12-07 12:45:27,960 - INFO - Retrieving transaction logs for IP: 192.168.200.143 from 2023-12-06 12:45:27.881416 to 2023-12-07 12:45:27.881416
+2023-12-07 12:45:27,960 - ERROR - Error during network communication: No method matches given arguments for TransactionLogArg..ctor: ()
+2023-12-07 12:45:27,960 - INFO - Total logs retrieved: 0
+2023-12-07 12:45:27,960 - INFO - Finished
+2023-12-07 12:46:54,406 - INFO - Check if date file exists.
+2023-12-07 12:46:54,421 - INFO - Checking device status for IP: 192.168.200.143
+2023-12-07 12:46:54,456 - INFO - Device status: True
+2023-12-07 12:46:54,456 - INFO - Establishing a network connection to IP: 192.168.200.143
+2023-12-07 12:46:54,474 - ERROR - Error during network communication: An invalid WiFi IPaddress  was specified.
+   at IXMSoft.Business.SDK.NetworkConnection.TryOpenWiFiConnection()
+   at IXMSoft.Business.SDK.NetworkConnection.OpenConnection()
+2023-12-07 12:46:54,476 - INFO - Total logs retrieved: 0
+2023-12-07 12:46:54,476 - INFO - Finished
+2023-12-07 12:47:16,711 - INFO - Check if date file exists.
+2023-12-07 12:47:16,721 - INFO - Checking device status for IP: 192.168.200.143
+2023-12-07 12:47:16,779 - INFO - Device status: True
+2023-12-07 12:47:16,779 - INFO - Establishing a network connection to IP: 192.168.200.143
+2023-12-07 12:47:16,806 - INFO - Network connection established: True
+2023-12-07 12:47:16,808 - INFO - Retrieving transaction logs for IP: 192.168.200.143 from 2023-12-06 12:47:16.711665 to 2023-12-07 12:47:16.711665
+2023-12-07 12:47:16,808 - ERROR - Error during network communication: No method matches given arguments for TransactionLogArg..ctor: ()
+2023-12-07 12:47:16,808 - INFO - Total logs retrieved: 0
+2023-12-07 12:47:16,808 - INFO - Finished
+2023-12-07 12:57:05,034 - INFO - Check if date file exists.
+2023-12-07 12:57:05,044 - INFO - Checking device status for IP: 192.168.200.143
+2023-12-07 12:57:05,085 - INFO - Device status: True
+2023-12-07 12:57:05,085 - INFO - Establishing a network connection to IP: 192.168.200.143
+2023-12-07 12:57:05,127 - INFO - Network connection established: True
+2023-12-07 12:57:05,127 - INFO - Retrieving transaction logs for IP: 192.168.200.143 from 2023-12-06 12:57:05.034870 to 2023-12-07 12:57:05.034870
+2023-12-07 12:57:05,127 - ERROR - Error during network communication: No method matches given arguments for TransactionLogArg..ctor: ()
+2023-12-07 12:57:05,127 - INFO - Total logs retrieved: 0
+2023-12-07 12:57:05,127 - INFO - Finished
+2023-12-07 13:00:42,405 - INFO - Check if date file exists.
+2023-12-07 13:00:42,416 - INFO - Checking device status for IP: 192.168.200.143
+2023-12-07 13:00:42,451 - INFO - Device status: True
+2023-12-07 13:00:42,451 - INFO - Establishing a network connection to IP: 192.168.200.143
+2023-12-07 13:00:42,475 - INFO - Network connection established: True
+2023-12-07 13:00:42,478 - INFO - Retrieving transaction logs for IP: 192.168.200.143 from 2023-12-06 13:00:42.405894 to 2023-12-07 13:00:42.405894
+2023-12-07 13:00:42,478 - ERROR - Error during network communication: No method matches given arguments for TransactionLogArg..ctor: ()
+2023-12-07 13:00:42,478 - INFO - Total logs retrieved: 0
+2023-12-07 13:00:42,478 - INFO - Finished
+2023-12-07 13:01:53,698 - INFO - Check if date file exists.
+2023-12-07 13:01:53,704 - INFO - Checking device status for IP: 192.168.200.143
+2023-12-07 13:01:53,735 - INFO - Device status: True
+2023-12-07 13:01:53,735 - INFO - Establishing a network connection to IP: 192.168.200.143
+2023-12-07 13:01:53,772 - INFO - Network connection established: True
+2023-12-07 13:01:53,772 - INFO - Retrieving transaction logs for IP: 192.168.200.143 from 2023-12-06 13:01:53.698232 to 2023-12-07 13:01:53.698232
+2023-12-07 13:01:53,775 - ERROR - Error during network communication: No method matches given arguments for TransactionLogArg..ctor: ()
+2023-12-07 13:01:53,775 - INFO - Total logs retrieved: 0
+2023-12-07 13:01:53,780 - INFO - Finished
+2023-12-07 13:08:12,195 - INFO - Check if date file exists.
+2023-12-07 13:08:12,206 - INFO - Checking device status for IP: 192.168.200.143
+2023-12-07 13:08:12,238 - INFO - Device status: True
+2023-12-07 13:08:12,238 - INFO - Establishing a network connection to IP: 192.168.200.143
+2023-12-07 13:08:12,281 - INFO - Network connection established: True
+2023-12-07 13:08:12,281 - INFO - Retrieving transaction logs for IP: 192.168.200.143 from 2023-12-06 13:08:12.195039 to 2023-12-07 13:08:12.195039
+2023-12-07 13:08:12,287 - ERROR - Error during network communication: No method matches given arguments for TransactionLogArg..ctor: ()
+2023-12-07 13:08:12,288 - INFO - Total logs retrieved: 0
+2023-12-07 13:08:12,295 - INFO - Finished
+2023-12-07 13:14:44,995 - INFO - Check if date file exists.
+2023-12-07 13:14:45,005 - INFO - Checking device status for IP: 192.168.200.143
+2023-12-07 13:14:45,218 - INFO - Device status: True
+2023-12-07 13:14:45,218 - INFO - Establishing a network connection to IP: 192.168.200.143
+2023-12-07 13:14:45,241 - INFO - Network connection established: True
+2023-12-07 13:14:45,241 - INFO - Retrieving transaction logs for IP: 192.168.200.143 from 2023-12-06 13:14:44.995183 to 2023-12-07 13:14:44.995183
+2023-12-07 13:14:45,245 - ERROR - Error during network communication: No method matches given arguments for TransactionLogArg..ctor: ()
+2023-12-07 13:14:45,245 - INFO - Total logs retrieved: 0
+2023-12-07 13:14:45,245 - INFO - Finished
+2023-12-07 13:15:41,977 - INFO - Check if date file exists.
+2023-12-07 13:15:41,985 - INFO - Checking device status for IP: 192.168.200.143
+2023-12-07 13:15:42,035 - INFO - Device status: True
+2023-12-07 13:15:42,035 - INFO - Establishing a network connection to IP: 192.168.200.143
+2023-12-07 13:15:42,066 - INFO - Network connection established: True
+2023-12-07 13:15:42,066 - INFO - Retrieving transaction logs for IP: 192.168.200.143 from 2023-12-06 13:15:41.977323 to 2023-12-07 13:15:41.977323
+2023-12-07 13:15:42,069 - ERROR - Error during network communication: No method matches given arguments for TransactionLogArg..ctor: ()
+2023-12-07 13:15:42,069 - INFO - Total logs retrieved: 0
+2023-12-07 13:15:42,069 - INFO - Finished
+2023-12-07 13:16:22,505 - INFO - Check if date file exists.
+2023-12-07 13:16:22,515 - INFO - Checking device status for IP: 192.168.200.143
+2023-12-07 13:16:22,615 - INFO - Device status: True
+2023-12-07 13:16:22,615 - INFO - Establishing a network connection to IP: 192.168.200.143
+2023-12-07 13:16:22,655 - INFO - Network connection established: True
+2023-12-07 13:16:22,655 - INFO - Retrieving transaction logs for IP: 192.168.200.143 from 2023-12-06 13:16:22.505343 to 2023-12-07 13:16:22.505343
+2023-12-07 13:16:22,659 - ERROR - Error during network communication: cannot access local variable 'transaction_log_arguments' where it is not associated with a value
+2023-12-07 13:16:22,659 - INFO - Total logs retrieved: 0
+2023-12-07 13:16:22,662 - INFO - Finished
+2023-12-07 13:17:09,435 - INFO - Check if date file exists.
+2023-12-07 13:17:09,445 - INFO - Checking device status for IP: 192.168.200.143
+2023-12-07 13:17:09,485 - INFO - Device status: True
+2023-12-07 13:17:09,485 - INFO - Establishing a network connection to IP: 192.168.200.143
+2023-12-07 13:17:09,517 - INFO - Network connection established: True
+2023-12-07 13:17:09,517 - INFO - Retrieving transaction logs for IP: 192.168.200.143 from 2023-12-06 13:17:09.435231 to 2023-12-07 13:17:09.435231
+2023-12-07 13:17:09,521 - ERROR - Error during network communication: No method matches given arguments for TransactionLogArg..ctor: ()
+2023-12-07 13:17:09,521 - INFO - Total logs retrieved: 0
+2023-12-07 13:17:09,521 - INFO - Finished
+2023-12-07 13:20:00,995 - INFO - Check if date file exists.
+2023-12-07 13:20:01,001 - INFO - Checking device status for IP: 192.168.200.143
+2023-12-07 13:20:01,055 - INFO - Device status: True
+2023-12-07 13:20:01,055 - INFO - Establishing a network connection to IP: 192.168.200.143
+2023-12-07 13:20:01,095 - INFO - Network connection established: True
+2023-12-07 13:20:01,095 - INFO - Retrieving transaction logs for IP: 192.168.200.143 from 2023-12-06 13:20:00.995382 to 2023-12-07 13:20:00.995382
+2023-12-07 13:20:01,107 - ERROR - Error during network communication: No method matches given arguments for TransactionLogArg..ctor: ()
+2023-12-07 13:20:01,107 - INFO - Total logs retrieved: 0
+2023-12-07 13:20:01,108 - INFO - Finished
+2023-12-07 13:22:46,505 - INFO - Check if date file exists.
+2023-12-07 13:22:46,515 - INFO - Checking device status for IP: 192.168.200.143
+2023-12-07 13:22:46,566 - INFO - Device status: True
+2023-12-07 13:22:46,566 - INFO - Establishing a network connection to IP: 192.168.200.143
+2023-12-07 13:22:46,607 - INFO - Network connection established: True
+2023-12-07 13:22:46,615 - INFO - Retrieving transaction logs for IP: 192.168.200.143 from 2023-12-06 13:22:46.505384 to 2023-12-07 13:22:46.505384
+2023-12-07 13:22:46,620 - ERROR - Error during network communication: No method matches given arguments for TransactionLogArg..ctor: ()
+2023-12-07 13:22:46,620 - INFO - Total logs retrieved: 0
+2023-12-07 13:22:46,621 - INFO - Finished
+2023-12-07 13:36:47,620 - INFO - Checking device status for IP: 192.168.200.143
+2023-12-07 13:36:47,767 - INFO - Device status: True
+2023-12-07 13:36:47,767 - INFO - Establishing a network connection to IP: 192.168.200.143
+2023-12-07 13:36:47,795 - INFO - Network connection established: True
+2023-12-07 13:36:47,795 - INFO - Retrieving transaction logs for IP: 192.168.200.143 from 2023-12-06 13:36:47.612929 to 2023-12-07 13:36:47.612929
+2023-12-07 13:36:47,800 - ERROR - Error during network communication: No method matches given arguments for TransactionLogArg..ctor: ()
+2023-12-07 13:36:47,801 - INFO - Total logs retrieved: 0
+2023-12-07 13:36:47,801 - INFO - Finished
+2023-12-07 13:41:26,417 - INFO - Checking device status for IP: 192.168.200.143
+2023-12-07 13:41:26,455 - INFO - Device status: True
+2023-12-07 13:41:26,455 - INFO - Establishing a network connection to IP: 192.168.200.143
+2023-12-07 13:41:26,495 - INFO - Network connection established: True
+2023-12-07 13:41:26,495 - INFO - Retrieving transaction logs for IP: 192.168.200.143 from 2023-12-06 13:41:26.412070 to 2023-12-07 13:41:26.412070
+2023-12-07 13:41:26,495 - ERROR - Error during network communication: No method matches given arguments for TransactionLogArg..ctor: ()
+2023-12-07 13:41:26,495 - INFO - Total logs retrieved: 0
+2023-12-07 13:42:08,275 - INFO - Checking device status for IP: 192.168.200.143
+2023-12-07 13:42:08,321 - INFO - Device status: True
+2023-12-07 13:42:08,322 - INFO - Establishing a network connection to IP: 192.168.200.143
+2023-12-07 13:42:08,369 - INFO - Network connection established: True
+2023-12-07 13:42:08,370 - INFO - Retrieving transaction logs for IP: 192.168.200.143 from 2023-12-06 13:42:08.266825 to 2023-12-07 13:42:08.266825
+2023-12-07 13:42:08,375 - ERROR - Error during network communication: No method matches given arguments for TransactionLogArg..ctor: ()
+2023-12-07 13:42:08,375 - INFO - Total logs retrieved: 0
+2023-12-07 13:42:08,375 - INFO - Finished
+2023-12-07 13:42:17,487 - INFO - Checking device status for IP: 192.168.200.143
+2023-12-07 13:42:17,748 - INFO - Device status: True
+2023-12-07 13:42:17,748 - INFO - Establishing a network connection to IP: 192.168.200.143
+2023-12-07 13:42:17,765 - INFO - Network connection established: True
+2023-12-07 13:42:17,765 - INFO - Retrieving transaction logs for IP: 192.168.200.143 from 2023-12-06 13:42:17.475924 to 2023-12-07 13:42:17.475924
+2023-12-07 13:42:17,773 - ERROR - Error during network communication: No method matches given arguments for TransactionLogArg..ctor: ()
+2023-12-07 13:42:17,776 - INFO - Total logs retrieved: 0
+2023-12-07 13:42:17,776 - INFO - Finished
+2023-12-07 13:49:22,543 - INFO - Checking device status for IP: 192.168.200.143
+2023-12-07 13:49:22,623 - INFO - Device status: True
+2023-12-07 13:49:22,624 - INFO - Establishing a network connection to IP: 192.168.200.143
+2023-12-07 13:49:22,658 - INFO - Network connection established: True
+2023-12-07 13:49:22,658 - INFO - Retrieving transaction logs for IP: 192.168.200.143 from 2023-12-06 13:49:22 to 2023-12-07 13:49:22
+2023-12-07 13:49:22,662 - ERROR - Error during network communication: No method matches given arguments for TransactionLogArg..ctor: ()
+2023-12-07 13:49:22,662 - INFO - Total logs retrieved: 0
+2023-12-07 13:50:23,774 - INFO - Checking device status for IP: 192.168.200.143
+2023-12-07 13:50:23,829 - INFO - Device status: True
+2023-12-07 13:50:23,829 - INFO - Establishing a network connection to IP: 192.168.200.143
+2023-12-07 13:50:23,861 - INFO - Network connection established: True
+2023-12-07 13:50:23,862 - INFO - Retrieving transaction logs for IP: 192.168.200.143 from 2023-12-06 13:50:23 to 2023-12-07 13:50:23
+2023-12-07 13:50:23,867 - ERROR - Error during network communication: No method matches given arguments for TransactionLogArg..ctor: ()
+2023-12-07 13:50:23,868 - INFO - Total logs retrieved: 0
+2023-12-07 13:50:23,868 - INFO - Finished
+2023-12-07 13:57:27,376 - INFO - Checking device status for IP: 192.168.200.143
+2023-12-07 13:57:27,426 - INFO - Device status: True
+2023-12-07 13:57:27,426 - INFO - Establishing a network connection to IP: 192.168.200.143
+2023-12-07 13:57:27,469 - INFO - Network connection established: True
+2023-12-07 13:57:27,469 - INFO - Retrieving transaction logs for IP: 192.168.200.143 from 06/12/2023 to 07/12/2023
+2023-12-07 13:57:27,476 - ERROR - Error during network communication: No method matches given arguments for TransactionLogArg..ctor: ()
+2023-12-07 13:57:27,476 - INFO - Total logs retrieved: 0
+2023-12-07 13:57:27,476 - INFO - Finished
+2023-12-07 13:58:41,436 - INFO - Checking device status for IP: 192.168.200.143
+2023-12-07 13:58:41,469 - INFO - Device status: True
+2023-12-07 13:58:41,469 - INFO - Establishing a network connection to IP: 192.168.200.143
+2023-12-07 13:58:41,514 - INFO - Network connection established: True
+2023-12-07 13:58:41,514 - INFO - Retrieving transaction logs for IP: 192.168.200.143 from 2023-12-06 13:58:41.426542 to 2023-12-07 13:58:41.426542
+2023-12-07 13:58:41,519 - ERROR - Error during network communication: No method matches given arguments for TransactionLogArg..ctor: ()
+2023-12-07 13:58:41,519 - INFO - Total logs retrieved: 0
+2023-12-07 13:58:41,520 - INFO - Finished
+2023-12-07 14:09:10,397 - INFO - Checking device status for IP: 192.168.200.143
+2023-12-07 14:09:14,252 - INFO - Device status: False
+2023-12-07 14:09:14,252 - INFO - Finished
+2023-12-07 14:10:24,356 - INFO - Checking device status for IP: 192.168.200.143
+2023-12-07 14:10:24,391 - INFO - Device status: True
+2023-12-07 14:10:24,391 - INFO - Establishing a network connection to IP: 192.168.200.143
+2023-12-07 14:10:24,439 - INFO - Network connection established: True
+2023-12-07 14:10:24,440 - INFO - Retrieving transaction logs for IP: 192.168.200.143 from 2023-12-06 14:10:24.346741 to 2023-12-07 14:10:24.346741
+2023-12-07 14:10:24,445 - ERROR - Error during network communication: No method matches given arguments for TransactionLogArg..ctor: ()
+2023-12-07 14:10:24,446 - INFO - Total logs retrieved: 0
+2023-12-07 14:10:24,446 - INFO - Finished
+2023-12-07 14:11:18,343 - INFO - Checking device status for IP: 192.168.200.143
+2023-12-07 14:11:18,717 - INFO - Device status: True
+2023-12-07 14:11:18,718 - INFO - Establishing a network connection to IP: 192.168.200.143
+2023-12-07 14:11:18,758 - INFO - Network connection established: True
+2023-12-07 14:11:18,758 - INFO - Retrieving transaction logs for IP: 192.168.200.143 from 2023-12-06 14:11:18.336240 to 2023-12-07 14:11:18.336240
+2023-12-07 14:11:18,761 - ERROR - Error during network communication: 'TransactionLogArg' object is not callable
+2023-12-07 14:11:18,761 - INFO - Total logs retrieved: 0
+2023-12-07 14:11:18,762 - INFO - Finished
+2023-12-07 14:20:13,776 - INFO - Checking device status for IP: 192.168.200.143
+2023-12-07 14:20:13,816 - INFO - Device status: True
+2023-12-07 14:20:13,816 - INFO - Establishing a network connection to IP: 192.168.200.143
+2023-12-07 14:20:13,850 - INFO - Network connection established: True
+2023-12-07 14:20:13,856 - INFO - Retrieving transaction logs for IP: 192.168.200.143 from 2023-12-06 14:20:13.761902 to 2023-12-07 14:20:13.761902
+2023-12-07 14:20:13,856 - ERROR - Error during network communication: name 'start_date_dotnet' is not defined
+2023-12-07 14:20:13,856 - INFO - Total logs retrieved: 0
+2023-12-07 14:20:13,856 - INFO - Finished
+2023-12-07 14:21:22,966 - INFO - Checking device status for IP: 192.168.200.143
+2023-12-07 14:21:23,016 - INFO - Device status: True
+2023-12-07 14:21:23,016 - INFO - Establishing a network connection to IP: 192.168.200.143
+2023-12-07 14:21:23,037 - INFO - Network connection established: True
+2023-12-07 14:21:23,037 - INFO - Retrieving transaction logs for IP: 192.168.200.143 from 2023-12-06 14:21:22.956739 to 2023-12-07 14:21:22.956739
+2023-12-07 14:22:23,167 - ERROR - Error during network communication: 'NetworkConnection' object has no attribute 'close_connection'
+2023-12-07 14:22:23,167 - INFO - Total logs retrieved: 0
+2023-12-07 14:22:23,167 - INFO - Finished
+2023-12-07 14:25:37,186 - INFO - Checking device status for IP: 192.168.200.143
+2023-12-07 14:25:37,236 - INFO - Device status: True
+2023-12-07 14:25:37,236 - INFO - Establishing a network connection to IP: 192.168.200.143
+2023-12-07 14:25:37,258 - INFO - Network connection established: True
+2023-12-07 14:25:37,258 - INFO - Retrieving transaction logs for IP: 192.168.200.143 from 2023-12-06 14:25:37.176673 to 2023-12-07 14:25:37.176673
+2023-12-07 14:26:37,306 - ERROR - Error during network communication: not enough values to unpack (expected 2, got 0)
+2023-12-07 14:26:37,306 - INFO - Total logs retrieved: 0
+2023-12-07 14:26:37,316 - INFO - Finished
+2023-12-07 14:30:07,933 - INFO - Checking device status for IP: 192.168.200.143
+2023-12-07 14:30:07,997 - INFO - Device status: True
+2023-12-07 14:30:07,998 - INFO - Establishing a network connection to IP: 192.168.200.143
+2023-12-07 14:30:08,036 - INFO - Network connection established: True
+2023-12-07 14:30:08,036 - INFO - Retrieving transaction logs for IP: 192.168.200.143 from 2023-12-06 14:30:07.921941 to 2023-12-07 14:30:07.921941
+2023-12-07 14:31:08,097 - ERROR - Error during network communication: not enough values to unpack (expected 2, got 0)
+2023-12-07 14:31:08,097 - INFO - Total logs retrieved: 0
+2023-12-07 14:31:08,097 - INFO - Finished
+2023-12-07 14:52:10,013 - INFO - Checking device status for IP: 192.168.200.143
+2023-12-07 14:52:10,070 - INFO - Device status: True
+2023-12-07 14:52:10,070 - INFO - Establishing a network connection to IP: 192.168.200.143
+2023-12-07 14:52:10,102 - INFO - Network connection established: True
+2023-12-07 14:52:10,102 - INFO - Retrieving transaction logs for IP: 192.168.200.143 from 2023-12-06 14:52:10.002776 to 2023-12-07 14:52:10.002776
+2023-12-07 14:53:10,192 - ERROR - Error during network communication: not enough values to unpack (expected 2, got 0)
+2023-12-07 14:53:10,192 - INFO - Total logs retrieved: 0
+2023-12-07 14:53:10,193 - INFO - Finished
+2023-12-07 14:53:59,377 - INFO - Checking device status for IP: 192.168.200.85
+2023-12-07 14:53:59,424 - INFO - Device status: True
+2023-12-07 14:53:59,424 - INFO - Establishing a network connection to IP: 192.168.200.85
+2023-12-07 14:53:59,461 - INFO - Network connection established: True
+2023-12-07 14:53:59,461 - INFO - Retrieving transaction logs for IP: 192.168.200.85 from 2023-12-06 14:53:59.365729 to 2023-12-07 14:53:59.365729
+2023-12-07 14:54:59,557 - ERROR - Error during network communication: not enough values to unpack (expected 2, got 0)
+2023-12-07 14:54:59,557 - INFO - Total logs retrieved: 0
+2023-12-07 14:54:59,558 - INFO - Finished
+2023-12-07 15:02:49,743 - INFO - Checking device status for IP: 192.168.200.85
+2023-12-07 15:02:49,798 - INFO - Device status: True
+2023-12-07 15:02:49,798 - INFO - Establishing a network connection to IP: 192.168.200.85
+2023-12-07 15:02:49,843 - INFO - Network connection established: True
+2023-12-07 15:02:49,843 - INFO - Retrieving transaction logs for IP: 192.168.200.85 from 2023-12-06 15:02:49.722871 to 2023-12-07 15:02:49.722871
+2023-12-07 15:03:49,998 - ERROR - Error during network communication: not enough values to unpack (expected 2, got 0)
+2023-12-07 15:03:49,998 - INFO - Total logs retrieved: 0
+2023-12-07 15:03:49,999 - INFO - Finished
+2023-12-07 15:06:09,313 - INFO - Checking device status for IP: 192.168.200.143
+2023-12-07 15:06:09,382 - INFO - Device status: True
+2023-12-07 15:06:09,383 - INFO - Establishing a network connection to IP: 192.168.200.143
+2023-12-07 15:06:09,469 - INFO - Network connection established: True
+2023-12-07 15:06:09,469 - INFO - Retrieving transaction logs for IP: 192.168.200.143 from 2023-12-06 15:06:09.293228 to 2023-12-07 15:06:09.293228
+2023-12-07 15:07:09,573 - ERROR - Error during network communication: not enough values to unpack (expected 2, got 0)
+2023-12-07 15:07:09,573 - INFO - Total logs retrieved: 0
+2023-12-07 15:07:09,573 - INFO - Finished
+2023-12-07 15:11:42,413 - INFO - Checking device status for IP: 192.168.200.143
+2023-12-07 15:11:42,468 - INFO - Device status: True
+2023-12-07 15:11:42,468 - INFO - Establishing a network connection to IP: 192.168.200.143
+2023-12-07 15:11:42,488 - INFO - Network connection established: True
+2023-12-07 15:11:42,488 - INFO - Retrieving transaction logs for IP: 192.168.200.143 from 2023-12-06 15:11:42.400862 to 2023-12-07 15:11:42.400862
+2023-12-07 15:11:42,578 - ERROR - Error during network communication: not enough values to unpack (expected 2, got 0)
+2023-12-07 15:11:42,578 - INFO - Total logs retrieved: 0
+2023-12-07 15:11:42,579 - INFO - Finished
+2023-12-07 15:13:40,483 - INFO - Checking device status for IP: 192.168.200.143
+2023-12-07 15:13:40,533 - INFO - Device status: True
+2023-12-07 15:13:40,533 - INFO - Establishing a network connection to IP: 192.168.200.143
+2023-12-07 15:13:40,569 - INFO - Network connection established: True
+2023-12-07 15:13:40,569 - INFO - Retrieving transaction logs for IP: 192.168.200.143 from 2023-12-06 15:13:40.467728 to 2023-12-07 15:13:40.467728
+2023-12-07 15:14:40,621 - ERROR - Error during network communication: not enough values to unpack (expected 2, got 0)
+2023-12-07 15:14:40,621 - INFO - Total logs retrieved: 0
+2023-12-07 15:14:40,623 - INFO - Finished
+2023-12-07 15:15:05,831 - INFO - Checking device status for IP: 192.168.200.143
+2023-12-07 15:15:09,010 - INFO - Device status: True
+2023-12-07 15:15:09,010 - INFO - Establishing a network connection to IP: 192.168.200.143
+2023-12-07 15:15:09,037 - INFO - Network connection established: True
+2023-12-07 15:15:09,037 - INFO - Retrieving transaction logs for IP: 192.168.200.143 from 2023-12-06 15:15:05.818660 to 2023-12-07 15:15:05.818660
+2023-12-07 15:16:09,133 - ERROR - Error during network communication: not enough values to unpack (expected 2, got 0)
+2023-12-07 15:16:09,133 - INFO - Total logs retrieved: 0
+2023-12-07 15:16:09,134 - INFO - Finished
+2023-12-07 15:17:59,493 - INFO - Checking device status for IP: 192.168.200.143
+2023-12-07 15:17:59,718 - INFO - Device status: True
+2023-12-07 15:17:59,720 - INFO - Establishing a network connection to IP: 192.168.200.143
+2023-12-07 15:17:59,767 - INFO - Network connection established: True
+2023-12-07 15:17:59,768 - INFO - Retrieving transaction logs for IP: 192.168.200.143 from 2023-12-06 15:17:59.485545 to 2023-12-07 15:17:59.485545
+2023-12-07 15:18:59,850 - ERROR - Error during network communication: not enough values to unpack (expected 2, got 0)
+2023-12-07 15:18:59,851 - INFO - Total logs retrieved: 0
+2023-12-07 15:18:59,851 - INFO - Finished
+2023-12-07 15:19:17,973 - INFO - Checking device status for IP: 192.168.200.143
+2023-12-07 15:19:21,063 - INFO - Device status: True
+2023-12-07 15:19:21,063 - INFO - Establishing a network connection to IP: 192.168.200.143
+2023-12-07 15:19:23,083 - ERROR - Error during network communication: Ethernet open connection timeout
+   at IXMSoft.Business.SDK.EthernetCommunicationManager.Connect()
+   at IXMSoft.Business.SDK.NetworkConnection.TryOpenEthernetConnection()
+   at IXMSoft.Business.SDK.NetworkConnection.OpenConnection()
+2023-12-07 15:19:23,083 - INFO - Total logs retrieved: 0
+2023-12-07 15:19:23,083 - INFO - Finished
+2023-12-07 15:19:52,439 - INFO - Checking device status for IP: 192.168.200.143
+2023-12-07 15:19:52,471 - INFO - Device status: True
+2023-12-07 15:19:52,471 - INFO - Establishing a network connection to IP: 192.168.200.143
+2023-12-07 15:19:52,493 - INFO - Network connection established: True
+2023-12-07 15:19:52,493 - INFO - Retrieving transaction logs for IP: 192.168.200.143 from 2023-12-06 15:19:52.428111 to 2023-12-07 15:19:52.428111
+2023-12-07 15:20:52,653 - ERROR - Error during network communication: not enough values to unpack (expected 2, got 0)
+2023-12-07 15:20:52,653 - INFO - Total logs retrieved: 0
+2023-12-07 15:20:52,653 - INFO - Finished
+2023-12-07 15:22:40,622 - INFO - Checking device status for IP: 192.168.200.143
+2023-12-07 15:22:40,670 - INFO - Device status: True
+2023-12-07 15:22:40,670 - INFO - Establishing a network connection to IP: 192.168.200.143
+2023-12-07 15:22:40,694 - INFO - Network connection established: True
+2023-12-07 15:22:40,695 - INFO - Retrieving transaction logs for IP: 192.168.200.143 from 2023-12-06 15:22:40.606778 to 2023-12-07 15:22:40.606778
+2023-12-07 15:23:40,740 - ERROR - Error during network communication: not enough values to unpack (expected 2, got 0)
+2023-12-07 15:23:40,740 - INFO - Total logs retrieved: 0
+2023-12-07 15:23:40,740 - INFO - Finished
+2023-12-07 15:29:37,934 - INFO - Checking device status for IP: 192.168.200.143
+2023-12-07 15:29:37,984 - INFO - Device status: True
+2023-12-07 15:29:37,984 - INFO - Establishing a network connection to IP: 192.168.200.143
+2023-12-07 15:29:38,009 - INFO - Network connection established: True
+2023-12-07 15:29:38,009 - INFO - Retrieving transaction logs for IP: 192.168.200.143 from 2023-12-06 15:29:37.913709 to 2023-12-07 15:29:37.913709
+2023-12-07 15:29:38,123 - ERROR - Error during network communication: not enough values to unpack (expected 2, got 0)
+2023-12-07 15:29:38,123 - INFO - Total logs retrieved: 0
+2023-12-07 15:29:38,124 - INFO - Finished
+2023-12-07 15:31:32,183 - INFO - Checking device status for IP: 192.168.200.143
+2023-12-07 15:31:32,263 - INFO - Device status: True
+2023-12-07 15:31:32,267 - INFO - Establishing a network connection to IP: 192.168.200.143
+2023-12-07 15:31:32,293 - INFO - Network connection established: True
+2023-12-07 15:31:32,293 - INFO - Retrieving transaction logs for IP: 192.168.200.143 from 2023-12-06 15:31:32.176548 to 2023-12-07 15:31:32.176548
+2023-12-07 15:31:32,335 - ERROR - Error during network communication: not enough values to unpack (expected 2, got 0)
+2023-12-07 15:31:32,336 - INFO - Total logs retrieved: 0
+2023-12-07 15:31:32,337 - INFO - Finished
+2023-12-07 15:33:46,304 - INFO - Checking device status for IP: 192.168.200.143
+2023-12-07 15:33:46,353 - INFO - Device status: True
+2023-12-07 15:33:46,353 - INFO - Establishing a network connection to IP: 192.168.200.143
+2023-12-07 15:33:46,395 - INFO - Network connection established: True
+2023-12-07 15:33:46,395 - INFO - Retrieving transaction logs for IP: 192.168.200.143 from 2023-12-06 15:33:46.284632 to 2023-12-07 15:33:46.284632
+2023-12-07 15:34:46,486 - ERROR - Error during network communication: not enough values to unpack (expected 2, got 0)
+2023-12-07 15:34:46,486 - INFO - Total logs retrieved: 0
+2023-12-07 15:34:46,494 - INFO - Finished
+2023-12-07 15:42:10,106 - INFO - Checking device status for IP: 192.168.200.143
+2023-12-07 15:42:10,162 - INFO - Device status: True
+2023-12-07 15:42:10,163 - INFO - Establishing a network connection to IP: 192.168.200.143
+2023-12-07 15:42:10,203 - INFO - Network connection established: True
+2023-12-07 15:42:10,203 - INFO - Retrieving transaction logs for IP: 192.168.200.143 from 2023-12-06 15:42:10.095201 to 2023-12-07 15:42:10.095201
+2023-12-07 15:43:18,482 - INFO - Checking device status for IP: 192.168.200.143
+2023-12-07 15:43:21,588 - INFO - Device status: True
+2023-12-07 15:43:21,588 - INFO - Establishing a network connection to IP: 192.168.200.143
+2023-12-07 15:43:23,614 - ERROR - Error during network communication: Ethernet open connection timeout
+   at IXMSoft.Business.SDK.EthernetCommunicationManager.Connect()
+   at IXMSoft.Business.SDK.NetworkConnection.TryOpenEthernetConnection()
+   at IXMSoft.Business.SDK.NetworkConnection.OpenConnection()
+2023-12-07 15:43:23,615 - INFO - Total logs retrieved: 0
+2023-12-07 15:43:23,616 - INFO - Finished
+2023-12-07 15:43:46,565 - INFO - Checking device status for IP: 192.168.200.143
+2023-12-07 15:43:46,625 - INFO - Device status: True
+2023-12-07 15:43:46,626 - INFO - Establishing a network connection to IP: 192.168.200.143
+2023-12-07 15:43:46,671 - INFO - Network connection established: True
+2023-12-07 15:43:46,672 - INFO - Retrieving transaction logs for IP: 192.168.200.143 from 2023-12-06 15:43:46.547254 to 2023-12-07 15:43:46.547254
+2023-12-07 15:45:00,537 - INFO - Checking device status for IP: 192.168.200.143
+2023-12-07 15:45:03,582 - INFO - Device status: True
+2023-12-07 15:45:03,583 - INFO - Establishing a network connection to IP: 192.168.200.143
+2023-12-07 15:45:05,613 - ERROR - Error during network communication: Ethernet open connection timeout
+   at IXMSoft.Business.SDK.EthernetCommunicationManager.Connect()
+   at IXMSoft.Business.SDK.NetworkConnection.TryOpenEthernetConnection()
+   at IXMSoft.Business.SDK.NetworkConnection.OpenConnection()
+2023-12-07 15:45:05,614 - INFO - Total logs retrieved: 0
+2023-12-07 15:45:05,614 - INFO - Finished
+2023-12-07 15:46:01,504 - INFO - Checking device status for IP: 192.168.200.143
+2023-12-07 15:46:01,562 - INFO - Device status: True
+2023-12-07 15:46:01,562 - INFO - Establishing a network connection to IP: 192.168.200.143
+2023-12-07 15:46:01,604 - INFO - Network connection established: True
+2023-12-07 15:46:01,605 - INFO - Retrieving transaction logs for IP: 192.168.200.143 from 2023-12-06 15:46:01.489967 to 2023-12-07 15:46:01.489967
+2023-12-07 15:47:11,755 - INFO - Checking device status for IP: 192.168.200.143
+2023-12-07 15:47:14,796 - INFO - Device status: True
+2023-12-07 15:47:14,796 - INFO - Establishing a network connection to IP: 192.168.200.143
+2023-12-07 15:47:16,825 - ERROR - Error during network communication: Ethernet open connection timeout
+   at IXMSoft.Business.SDK.EthernetCommunicationManager.Connect()
+   at IXMSoft.Business.SDK.NetworkConnection.TryOpenEthernetConnection()
+   at IXMSoft.Business.SDK.NetworkConnection.OpenConnection()
+2023-12-07 15:47:16,825 - INFO - Total logs retrieved: 0
+2023-12-07 15:47:16,826 - INFO - Finished
+2023-12-07 15:48:17,254 - INFO - Checking device status for IP: 192.168.200.143
+2023-12-07 15:48:17,327 - INFO - Device status: True
+2023-12-07 15:48:17,327 - INFO - Establishing a network connection to IP: 192.168.200.143
+2023-12-07 15:48:17,366 - INFO - Network connection established: True
+2023-12-07 15:48:17,367 - INFO - Retrieving transaction logs for IP: 192.168.200.143 from 2023-12-06 15:48:17.238723 to 2023-12-07 15:48:17.238723
+2023-12-07 15:49:17,478 - ERROR - Error during network communication: not enough values to unpack (expected 2, got 0)
+2023-12-07 15:49:17,478 - INFO - Total logs retrieved: 0
+2023-12-07 15:49:17,479 - INFO - Finished
+2023-12-07 15:50:24,259 - INFO - Checking device status for IP: 192.168.200.143
+2023-12-07 15:50:24,306 - INFO - Device status: True
+2023-12-07 15:50:24,306 - INFO - Establishing a network connection to IP: 192.168.200.143
+2023-12-07 15:50:24,336 - INFO - Network connection established: True
+2023-12-07 15:50:24,336 - INFO - Retrieving transaction logs for IP: 192.168.200.143 from 2023-12-06 15:50:24.247647 to 2023-12-07 15:50:24.247647
+2023-12-07 15:50:24,420 - ERROR - Error during network communication: not enough values to unpack (expected 2, got 0)
+2023-12-07 15:50:24,420 - INFO - Total logs retrieved: 0
+2023-12-07 15:50:24,421 - INFO - Finished
+2023-12-07 15:51:45,926 - INFO - Checking device status for IP: 192.168.200.143
+2023-12-07 15:51:48,969 - INFO - Device status: True
+2023-12-07 15:51:48,970 - INFO - Establishing a network connection to IP: 192.168.200.143
+2023-12-07 15:51:50,998 - ERROR - Error during network communication: Ethernet open connection timeout
+   at IXMSoft.Business.SDK.EthernetCommunicationManager.Connect()
+   at IXMSoft.Business.SDK.NetworkConnection.TryOpenEthernetConnection()
+   at IXMSoft.Business.SDK.NetworkConnection.OpenConnection()
+2023-12-07 15:51:50,998 - INFO - Total logs retrieved: 0
+2023-12-07 15:51:50,999 - INFO - Finished
+2023-12-07 15:52:00,295 - INFO - Checking device status for IP: 192.168.200.143
+2023-12-07 15:52:02,345 - INFO - Device status: True
+2023-12-07 15:52:02,346 - INFO - Establishing a network connection to IP: 192.168.200.143
+2023-12-07 15:52:02,389 - INFO - Network connection established: True
+2023-12-07 15:52:02,391 - INFO - Retrieving transaction logs for IP: 192.168.200.143 from 2023-12-06 15:52:00.281237 to 2023-12-07 15:52:00.281237
+2023-12-07 15:53:02,525 - ERROR - Error during network communication: not enough values to unpack (expected 2, got 0)
+2023-12-07 15:53:02,526 - INFO - Total logs retrieved: 0
+2023-12-07 15:53:02,527 - INFO - Finished
+2023-12-07 16:08:05,599 - INFO - Checking device status for IP: 192.168.200.143
+2023-12-07 16:08:05,687 - INFO - Device status: True
+2023-12-07 16:08:05,688 - INFO - Establishing a network connection to IP: 192.168.200.143
+2023-12-07 16:08:05,760 - INFO - Network connection established: True
+2023-12-07 16:08:05,761 - INFO - Retrieving transaction logs for IP: 192.168.200.143 from 2023-12-06 16:08:05.582303 to 2023-12-07 16:08:05.582303
+2023-12-07 16:08:05,767 - ERROR - Error during network communication: No method matches given arguments for TransactionLogManager.GetAllDateWiseTransactionLogCount: ()
+2023-12-07 16:08:05,767 - INFO - Total logs retrieved: 0
+2023-12-07 16:08:05,768 - INFO - Finished
+2023-12-07 16:13:48,186 - INFO - Checking device status for IP: 192.168.200.143
+2023-12-07 16:13:48,258 - INFO - Device status: True
+2023-12-07 16:13:48,259 - INFO - Establishing a network connection to IP: 192.168.200.143
+2023-12-07 16:13:48,307 - INFO - Network connection established: True
+2023-12-07 16:13:48,308 - INFO - Retrieving transaction logs for IP: 192.168.200.143 from 2023-12-06 16:13:48.169977 to 2023-12-07 16:13:48.169977
+2023-12-07 16:14:48,383 - ERROR - Error during network communication: not enough values to unpack (expected 2, got 0)
+2023-12-07 16:14:48,383 - INFO - Total logs retrieved: 0
+2023-12-07 16:14:48,388 - INFO - Finished
+2023-12-07 16:20:32,437 - INFO - Checking device status for IP: 192.168.200.143
+2023-12-07 16:20:32,480 - INFO - Device status: True
+2023-12-07 16:20:32,480 - INFO - Establishing a network connection to IP: 192.168.200.143
+2023-12-07 16:20:32,515 - INFO - Network connection established: True
+2023-12-07 16:20:32,515 - INFO - Retrieving transaction logs for IP: 192.168.200.143 from 2023-12-06 16:20:32.429485 to 2023-12-07 16:20:32.429485
+2023-12-07 16:21:32,578 - ERROR - Error during network communication: Ethernet connection Receive data timeout ---> System.Net.Sockets.SocketException: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+   at IXMSoft.Business.SDK.EthernetCommunicationManager.Receive(Byte[] buffer, Int32 offset, Int32 size, Int32 timeout)
+   --- End of inner exception stack trace ---
+   at IXMSoft.Business.SDK.EthernetCommunicationManager.Receive(Byte[] buffer, Int32 offset, Int32 size, Int32 timeout)
+   at IXMSoft.Business.SDK.EthernetCommunicationManager.ReceiveData(Int32 receiveTimeout)
+   at IXMSoft.Business.SDK.TransactionLogManager.GetAllDateWiseTransactionLogCount(DateTime startDate, DateTime endDate)
+2023-12-07 16:21:32,578 - ERROR - Error during network communication: cannot access local variable 'all_log_counter' where it is not associated with a value
+2023-12-07 16:21:32,578 - INFO - Total logs retrieved: 0
+2023-12-07 16:21:32,579 - INFO - Finished
+2023-12-07 16:25:58,435 - INFO - Checking device status for IP: 192.168.200.143
+2023-12-07 16:25:58,489 - INFO - Device status: True
+2023-12-07 16:25:58,490 - INFO - Establishing a network connection to IP: 192.168.200.143
+2023-12-07 16:25:58,536 - INFO - Network connection established: True
+2023-12-07 16:25:58,536 - INFO - Retrieving transaction logs for IP: 192.168.200.143 from 2023-12-06 16:25:58.426417 to 2023-12-07 16:25:58.426417
+2023-12-07 16:26:58,594 - ERROR - Error during network communication: cannot access local variable 'all_log_counter' where it is not associated with a value
+2023-12-07 16:26:58,596 - INFO - Total logs retrieved: 0
+2023-12-07 16:26:58,599 - INFO - Finished
+2023-12-07 16:28:45,194 - INFO - Checking device status for IP: 192.168.200.143
+2023-12-07 16:28:45,236 - INFO - Device status: True
+2023-12-07 16:28:45,236 - INFO - Establishing a network connection to IP: 192.168.200.143
+2023-12-07 16:28:45,282 - INFO - Network connection established: True
+2023-12-07 16:28:45,283 - INFO - Retrieving transaction logs for IP: 192.168.200.143 from 06/12/2023 16:28:45 to 07/12/2023 16:28:45
+2023-12-07 16:29:45,409 - ERROR - Error during network communication: not enough values to unpack (expected 2, got 0)
+2023-12-07 16:29:45,409 - INFO - Total logs retrieved: 0
+2023-12-07 16:29:45,409 - INFO - Finished
+2023-12-07 16:37:31,685 - INFO - Checking device status for IP: 192.168.200.143
+2023-12-07 16:37:31,716 - INFO - Device status: True
+2023-12-07 16:37:31,716 - INFO - Establishing a network connection to IP: 192.168.200.143
+2023-12-07 16:37:31,740 - INFO - Network connection established: True
+2023-12-07 16:37:31,740 - INFO - Retrieving transaction logs for IP: 192.168.200.143 from 06/12/2023 16:37:31 to 07/12/2023 16:37:31
+2023-12-07 16:37:32,405 - ERROR - Error during network communication: not enough values to unpack (expected 2, got 0)
+2023-12-07 16:37:32,405 - INFO - Total logs retrieved: 0
+2023-12-07 16:37:32,405 - INFO - Finished
+2023-12-07 16:39:41,806 - INFO - Checking device status for IP: 192.168.200.143
+2023-12-07 16:39:41,852 - INFO - Device status: True
+2023-12-07 16:39:41,852 - INFO - Establishing a network connection to IP: 192.168.200.143
+2023-12-07 16:39:41,883 - INFO - Network connection established: True
+2023-12-07 16:39:41,883 - INFO - Retrieving transaction logs for IP: 192.168.200.143 from 06/12/2023 16:39:41 to 07/12/2023 16:39:41
+2023-12-07 16:39:42,491 - ERROR - Error during network communication: not enough values to unpack (expected 2, got 0)
+2023-12-07 16:39:42,491 - INFO - Total logs retrieved: 0
+2023-12-07 16:39:42,491 - INFO - Finished
+2023-12-07 16:41:56,801 - INFO - Checking device status for IP: 192.168.200.143
+2023-12-07 16:41:56,829 - INFO - Device status: True
+2023-12-07 16:41:56,829 - INFO - Establishing a network connection to IP: 192.168.200.143
+2023-12-07 16:41:56,868 - INFO - Network connection established: True
+2023-12-07 16:41:56,870 - INFO - Retrieving transaction logs for IP: 192.168.200.143 from 06/12/2023 16:41:56 to 07/12/2023 16:41:56
+2023-12-07 16:41:57,410 - ERROR - Error during network communication: not enough values to unpack (expected 2, got 0)
+2023-12-07 16:41:57,411 - INFO - Total logs retrieved: 0
+2023-12-07 16:41:57,411 - INFO - Finished
+2023-12-07 16:43:28,997 - INFO - Checking device status for IP: 192.168.200.143
+2023-12-07 16:43:29,057 - INFO - Device status: True
+2023-12-07 16:43:29,057 - INFO - Establishing a network connection to IP: 192.168.200.143
+2023-12-07 16:43:29,079 - INFO - Network connection established: True
+2023-12-07 16:43:29,079 - INFO - Retrieving transaction logs for IP: 192.168.200.143 from 06/12/2023 16:43:28 to 07/12/2023 16:43:28
+2023-12-07 16:43:29,725 - ERROR - Error during network communication: not enough values to unpack (expected 2, got 0)
+2023-12-07 16:43:29,726 - INFO - Total logs retrieved: 0
+2023-12-07 16:43:29,727 - INFO - Finished
+2023-12-07 16:44:06,277 - INFO - Checking device status for IP: 192.168.200.143
+2023-12-07 16:44:06,377 - INFO - Device status: True
+2023-12-07 16:44:06,377 - INFO - Establishing a network connection to IP: 192.168.200.143
+2023-12-07 16:44:06,399 - INFO - Network connection established: True
+2023-12-07 16:44:06,401 - INFO - Retrieving transaction logs for IP: 192.168.200.143 from 06/12/2023 16:44:06 to 07/12/2023 16:44:06
+2023-12-07 16:44:08,098 - ERROR - Error during network communication: not enough values to unpack (expected 2, got 0)
+2023-12-07 16:44:08,098 - INFO - Total logs retrieved: 0
+2023-12-07 16:44:08,099 - INFO - Finished
+2023-12-07 16:46:19,112 - INFO - Checking device status for IP: 192.168.200.143
+2023-12-07 16:46:19,148 - INFO - Device status: True
+2023-12-07 16:46:19,148 - INFO - Establishing a network connection to IP: 192.168.200.143
+2023-12-07 16:46:19,179 - INFO - Network connection established: True
+2023-12-07 16:46:19,179 - INFO - Retrieving transaction logs for IP: 192.168.200.143 from 06/12/2023 16:46:19 to 07/12/2023 16:46:19
+2023-12-07 16:46:19,806 - ERROR - Error during network communication: not enough values to unpack (expected 2, got 0)
+2023-12-07 16:46:19,806 - INFO - Total logs retrieved: 0
+2023-12-07 16:46:19,806 - INFO - Finished
+2023-12-07 16:49:03,090 - INFO - Checking device status for IP: 192.168.200.143
+2023-12-07 16:49:03,129 - INFO - Device status: True
+2023-12-07 16:49:03,129 - INFO - Establishing a network connection to IP: 192.168.200.143
+2023-12-07 16:49:03,156 - INFO - Network connection established: True
+2023-12-07 16:49:03,157 - INFO - Retrieving transaction logs for IP: 192.168.200.143 from 06/12/2023 16:49:03 to 07/12/2023 16:49:03
+2023-12-07 16:49:03,732 - ERROR - Error during network communication: not enough values to unpack (expected 2, got 0)
+2023-12-07 16:49:03,734 - INFO - Total logs retrieved: 0
+2023-12-07 16:49:03,734 - INFO - Finished
+2023-12-07 16:49:51,628 - INFO - Checking device status for IP: 192.168.200.143
+2023-12-07 16:49:51,669 - INFO - Device status: True
+2023-12-07 16:49:51,669 - INFO - Establishing a network connection to IP: 192.168.200.143
+2023-12-07 16:49:51,698 - INFO - Network connection established: True
+2023-12-07 16:49:51,698 - INFO - Retrieving transaction logs for IP: 192.168.200.143 from 06/12/2023 16:49:51 to 07/12/2023 16:49:51
+2023-12-07 16:49:52,435 - ERROR - Error during network communication: not enough values to unpack (expected 2, got 0)
+2023-12-07 16:49:52,435 - INFO - Total logs retrieved: 0
+2023-12-07 16:49:52,436 - INFO - Finished
+2023-12-07 16:51:28,678 - INFO - Checking device status for IP: 192.168.200.143
+2023-12-07 16:51:28,729 - INFO - Device status: True
+2023-12-07 16:51:28,729 - INFO - Establishing a network connection to IP: 192.168.200.143
+2023-12-07 16:51:28,786 - INFO - Network connection established: True
+2023-12-07 16:51:28,786 - INFO - Retrieving transaction logs for IP: 192.168.200.143 from 06/12/2023 16:51:28 to 07/12/2023 16:51:28
+2023-12-07 16:51:29,348 - ERROR - Error during network communication: not enough values to unpack (expected 2, got 0)
+2023-12-07 16:51:29,348 - INFO - Total logs retrieved: 0
+2023-12-07 16:51:29,348 - INFO - Finished
+2023-12-07 16:51:56,743 - INFO - Checking device status for IP: 192.168.200.143
+2023-12-07 16:51:56,798 - INFO - Device status: True
+2023-12-07 16:51:56,798 - INFO - Establishing a network connection to IP: 192.168.200.143
+2023-12-07 16:51:56,819 - INFO - Network connection established: True
+2023-12-07 16:51:56,819 - INFO - Retrieving transaction logs for IP: 192.168.200.143 from 06/12/2023 16:51:56 to 07/12/2023 16:51:56
+2023-12-07 16:51:57,378 - ERROR - Error during network communication: not enough values to unpack (expected 2, got 0)
+2023-12-07 16:51:57,378 - INFO - Total logs retrieved: 0
+2023-12-07 16:51:57,378 - INFO - Finished
+2023-12-07 16:52:18,278 - INFO - Checking device status for IP: 192.168.200.143
+2023-12-07 16:52:18,388 - INFO - Device status: True
+2023-12-07 16:52:18,388 - INFO - Establishing a network connection to IP: 192.168.200.143
+2023-12-07 16:52:18,418 - INFO - Network connection established: True
+2023-12-07 16:52:18,418 - INFO - Retrieving transaction logs for IP: 192.168.200.143 from 06/12/2023 16:52:18 to 07/12/2023 16:52:18
+2023-12-07 16:52:18,999 - ERROR - Error during network communication: not enough values to unpack (expected 2, got 0)
+2023-12-07 16:52:18,999 - INFO - Total logs retrieved: 0
+2023-12-07 16:52:18,999 - INFO - Finished
+2023-12-07 16:52:47,298 - INFO - Checking device status for IP: 192.168.200.143
+2023-12-07 16:52:47,335 - INFO - Device status: True
+2023-12-07 16:52:47,335 - INFO - Establishing a network connection to IP: 192.168.200.143
+2023-12-07 16:52:47,364 - INFO - Network connection established: True
+2023-12-07 16:52:47,366 - INFO - Retrieving transaction logs for IP: 192.168.200.143 from 06/12/2023 16:52:47 to 07/12/2023 16:52:47
+2023-12-07 16:52:47,937 - ERROR - Error during network communication: not enough values to unpack (expected 2, got 0)
+2023-12-07 16:52:47,938 - INFO - Total logs retrieved: 0
+2023-12-07 16:52:47,939 - INFO - Finished
+2023-12-07 16:53:01,578 - INFO - Checking device status for IP: 192.168.200.143
+2023-12-07 16:53:01,633 - INFO - Device status: True
+2023-12-07 16:53:01,634 - INFO - Establishing a network connection to IP: 192.168.200.143
+2023-12-07 16:53:01,689 - INFO - Network connection established: True
+2023-12-07 16:53:01,690 - INFO - Retrieving transaction logs for IP: 192.168.200.143 from 06/12/2023 16:53:01 to 07/12/2023 16:53:01
+2023-12-07 16:53:02,298 - ERROR - Error during network communication: not enough values to unpack (expected 2, got 0)
+2023-12-07 16:53:02,298 - INFO - Total logs retrieved: 0
+2023-12-07 16:53:02,298 - INFO - Finished
+2023-12-07 16:56:53,085 - INFO - Checking device status for IP: 192.168.200.143
+2023-12-07 16:56:53,125 - INFO - Device status: True
+2023-12-07 16:56:53,128 - INFO - Establishing a network connection to IP: 192.168.200.143
+2023-12-07 16:56:53,148 - INFO - Network connection established: True
+2023-12-07 16:56:53,148 - INFO - Retrieving transaction logs for IP: 192.168.200.143 from 06/12/2023 16:56:53 to 07/12/2023 16:56:53
+2023-12-07 16:56:53,741 - ERROR - Error during network communication: not enough values to unpack (expected 2, got 0)
+2023-12-07 16:56:53,741 - INFO - Total logs retrieved: 0
+2023-12-07 16:56:53,741 - INFO - Finished
+2023-12-07 17:00:57,063 - INFO - Checking device status for IP: 192.168.200.143
+2023-12-07 17:00:57,090 - INFO - Device status: True
+2023-12-07 17:00:57,090 - INFO - Establishing a network connection to IP: 192.168.200.143
+2023-12-07 17:00:57,128 - INFO - Network connection established: True
+2023-12-07 17:00:57,128 - INFO - Retrieving transaction logs for IP: 192.168.200.143 from 06/12/2023 17:00:57 to 07/12/2023 17:00:57
+2023-12-07 17:00:57,756 - ERROR - Error during network communication: not enough values to unpack (expected 2, got 0)
+2023-12-07 17:00:57,756 - INFO - Total logs retrieved: 0
+2023-12-07 17:00:57,758 - INFO - Finished
+2023-12-07 17:05:59,587 - INFO - Checking device status for IP: 192.168.200.143
+2023-12-07 17:05:59,648 - INFO - Device status: True
+2023-12-07 17:05:59,648 - INFO - Establishing a network connection to IP: 192.168.200.143
+2023-12-07 17:05:59,672 - INFO - Network connection established: True
+2023-12-07 17:05:59,673 - INFO - Retrieving transaction logs for IP: 192.168.200.143 from 06/12/2023 17:05:59 to 07/12/2023 17:05:59
+2023-12-07 17:06:00,255 - ERROR - Error during network communication: not enough values to unpack (expected 2, got 0)
+2023-12-07 17:06:00,255 - INFO - Total logs retrieved: 0
+2023-12-07 17:06:00,256 - INFO - Finished
+2023-12-07 17:07:08,278 - INFO - Checking device status for IP: 192.168.200.143
+2023-12-07 17:07:08,328 - INFO - Device status: True
+2023-12-07 17:07:08,328 - INFO - Establishing a network connection to IP: 192.168.200.143
+2023-12-07 17:07:08,355 - INFO - Network connection established: True
+2023-12-07 17:07:08,355 - INFO - Retrieving transaction logs for IP: 192.168.200.143 from 06/12/2023 17:07:08 to 07/12/2023 17:07:08
+2023-12-07 17:07:08,973 - ERROR - Error during network communication: not enough values to unpack (expected 2, got 0)
+2023-12-07 17:07:08,973 - INFO - Total logs retrieved: 0
+2023-12-07 17:07:08,973 - INFO - Finished
+2023-12-07 17:08:08,618 - INFO - Checking device status for IP: 192.168.200.143
+2023-12-07 17:08:08,658 - INFO - Device status: True
+2023-12-07 17:08:08,658 - INFO - Establishing a network connection to IP: 192.168.200.143
+2023-12-07 17:08:08,698 - INFO - Network connection established: True
+2023-12-07 17:08:08,698 - INFO - Retrieving transaction logs for IP: 192.168.200.143 from 06/12/2023 17:08:08 to 07/12/2023 17:08:08
+2023-12-07 17:08:09,225 - ERROR - Error during network communication: 'AttributeError' object has no attribute 'ToString'
+2023-12-07 17:08:09,225 - INFO - Total logs retrieved: 0
+2023-12-07 17:08:09,225 - INFO - Finished
+2023-12-07 17:08:40,498 - INFO - Checking device status for IP: 192.168.200.143
+2023-12-07 17:08:40,653 - INFO - Device status: True
+2023-12-07 17:08:40,653 - INFO - Establishing a network connection to IP: 192.168.200.143
+2023-12-07 17:08:40,706 - INFO - Network connection established: True
+2023-12-07 17:08:40,707 - INFO - Retrieving transaction logs for IP: 192.168.200.143 from 06/12/2023 17:08:40 to 07/12/2023 17:08:40
+2023-12-07 17:08:41,229 - ERROR - Error during network communication: 'AttributeError' object has no attribute 'ToString'
+2023-12-07 17:08:41,229 - INFO - Total logs retrieved: 0
+2023-12-07 17:08:41,230 - INFO - Finished
+2023-12-07 17:10:14,170 - INFO - Checking device status for IP: 192.168.200.143
+2023-12-07 17:10:14,650 - INFO - Device status: True
+2023-12-07 17:10:14,650 - INFO - Establishing a network connection to IP: 192.168.200.143
+2023-12-07 17:10:14,678 - INFO - Network connection established: True
+2023-12-07 17:10:14,678 - INFO - Retrieving transaction logs for IP: 192.168.200.143 from 06/12/2023 17:10:14 to 07/12/2023 17:10:14
+2023-12-07 17:10:15,242 - ERROR - Error during network communication: 'AttributeError' object has no attribute 'ToString'
+2023-12-07 17:10:15,243 - INFO - Total logs retrieved: 0
+2023-12-07 17:10:15,243 - INFO - Finished
+2023-12-07 17:10:52,978 - INFO - Checking device status for IP: 192.168.200.143
+2023-12-07 17:10:53,031 - INFO - Device status: True
+2023-12-07 17:10:53,031 - INFO - Establishing a network connection to IP: 192.168.200.143
+2023-12-07 17:10:53,080 - INFO - Network connection established: True
+2023-12-07 17:10:53,080 - INFO - Retrieving transaction logs for IP: 192.168.200.143 from 06/12/2023 17:10:52 to 07/12/2023 17:10:52
+2023-12-07 17:10:53,635 - ERROR - Error during network communication: 'AttributeError' object has no attribute 'ToString'
+2023-12-07 17:10:53,635 - INFO - Total logs retrieved: 0
+2023-12-07 17:10:53,638 - INFO - Finished
+2023-12-07 17:11:45,418 - INFO - Checking device status for IP: 192.168.200.143
+2023-12-07 17:11:45,448 - INFO - Device status: True
+2023-12-07 17:11:45,448 - INFO - Establishing a network connection to IP: 192.168.200.143
+2023-12-07 17:11:45,478 - INFO - Network connection established: True
+2023-12-07 17:11:45,478 - INFO - Retrieving transaction logs for IP: 192.168.200.143 from 06/12/2023 17:11:45 to 07/12/2023 17:11:45
+2023-12-07 17:11:46,058 - ERROR - Error during network communication: 'AttributeError' object has no attribute 'ToString'
+2023-12-07 17:11:46,058 - INFO - Total logs retrieved: 0
+2023-12-07 17:11:46,058 - INFO - Finished
+2023-12-07 17:15:28,030 - INFO - Checking device status for IP: 192.168.200.143
+2023-12-07 17:15:28,219 - INFO - Device status: True
+2023-12-07 17:15:28,221 - INFO - Establishing a network connection to IP: 192.168.200.143
+2023-12-07 17:15:28,262 - INFO - Network connection established: True
+2023-12-07 17:15:28,263 - INFO - Retrieving transaction logs for IP: 192.168.200.143 from 06/12/2023 17:15:28 to 07/12/2023 17:15:28
+2023-12-07 17:15:28,844 - ERROR - Error during network communication: 'AttributeError' object has no attribute 'ToString'
+2023-12-07 17:15:28,844 - INFO - Total logs retrieved: 0
+2023-12-07 17:15:28,844 - INFO - Finished
+2023-12-07 17:16:07,218 - INFO - Checking device status for IP: 192.168.200.143
+2023-12-07 17:16:07,430 - INFO - Device status: True
+2023-12-07 17:16:07,430 - INFO - Establishing a network connection to IP: 192.168.200.143
+2023-12-07 17:16:07,460 - INFO - Network connection established: True
+2023-12-07 17:16:07,461 - INFO - Retrieving transaction logs for IP: 192.168.200.143 from 06/12/2023 17:16:07 to 07/12/2023 17:16:07
+2023-12-07 17:16:08,040 - ERROR - Error during network communication: 'AttributeError' object has no attribute 'ToString'
+2023-12-07 17:16:08,040 - INFO - Total logs retrieved: 0
+2023-12-07 17:16:08,040 - INFO - Finished
+2023-12-07 17:16:56,386 - INFO - Checking device status for IP: 192.168.200.143
+2023-12-07 17:16:56,408 - INFO - Device status: True
+2023-12-07 17:16:56,408 - INFO - Establishing a network connection to IP: 192.168.200.143
+2023-12-07 17:16:56,428 - INFO - Network connection established: True
+2023-12-07 17:16:56,428 - INFO - Retrieving transaction logs for IP: 192.168.200.143 from 06/12/2023 17:16:56 to 07/12/2023 17:16:56
+2023-12-07 17:16:57,057 - ERROR - Error during network communication: 'AttributeError' object has no attribute 'ToString'
+2023-12-07 17:16:57,058 - INFO - Total logs retrieved: 0
+2023-12-07 17:16:57,058 - INFO - Finished
+2023-12-07 17:18:27,788 - INFO - Checking device status for IP: 192.168.200.143
+2023-12-07 17:18:27,818 - INFO - Device status: True
+2023-12-07 17:18:27,818 - INFO - Establishing a network connection to IP: 192.168.200.143
+2023-12-07 17:18:27,846 - INFO - Network connection established: True
+2023-12-07 17:18:27,847 - INFO - Retrieving transaction logs for IP: 192.168.200.143 from 06/12/2023 17:18:27 to 07/12/2023 17:18:27
+2023-12-07 17:18:28,437 - ERROR - Error during network communication: 'AttributeError' object has no attribute 'ToString'
+2023-12-07 17:18:28,438 - INFO - Total logs retrieved: 0
+2023-12-07 17:18:28,439 - INFO - Finished
+2023-12-07 17:19:23,928 - INFO - Checking device status for IP: 192.168.200.143
+2023-12-07 17:19:24,026 - INFO - Device status: True
+2023-12-07 17:19:24,026 - INFO - Establishing a network connection to IP: 192.168.200.143
+2023-12-07 17:19:24,061 - INFO - Network connection established: True
+2023-12-07 17:19:24,062 - INFO - Retrieving transaction logs for IP: 192.168.200.143 from 06/12/2023 17:19:23 to 07/12/2023 17:19:23
+2023-12-07 17:19:24,678 - ERROR - Error during network communication: 'AttributeError' object has no attribute 'ToString'
+2023-12-07 17:19:24,678 - INFO - Total logs retrieved: 0
+2023-12-07 17:19:24,678 - INFO - Finished
+2023-12-07 17:20:22,950 - INFO - Checking device status for IP: 192.168.200.143
+2023-12-07 17:20:22,981 - INFO - Device status: True
+2023-12-07 17:20:22,981 - INFO - Establishing a network connection to IP: 192.168.200.143
+2023-12-07 17:20:23,007 - INFO - Network connection established: True
+2023-12-07 17:20:23,008 - INFO - Retrieving transaction logs for IP: 192.168.200.143 from 06/12/2023 17:20:22 to 07/12/2023 17:20:22
+2023-12-07 17:20:23,562 - ERROR - Error during network communication: 'AttributeError' object has no attribute 'ToString'
+2023-12-07 17:20:23,563 - INFO - Total logs retrieved: 0
+2023-12-07 17:20:23,564 - INFO - Finished
+2023-12-07 17:21:07,416 - INFO - Checking device status for IP: 192.168.200.143
+2023-12-07 17:21:07,451 - INFO - Device status: True
+2023-12-07 17:21:07,451 - INFO - Establishing a network connection to IP: 192.168.200.143
+2023-12-07 17:21:07,485 - INFO - Network connection established: True
+2023-12-07 17:21:07,486 - INFO - Retrieving transaction logs for IP: 192.168.200.143 from 06/12/2023 17:21:07 to 07/12/2023 17:21:07
+2023-12-07 17:21:08,145 - ERROR - Error during network communication: 'AttributeError' object has no attribute 'ToString'
+2023-12-07 17:21:08,146 - INFO - Total logs retrieved: 0
+2023-12-07 17:21:08,147 - INFO - Finished
+2023-12-07 17:21:51,882 - INFO - Checking device status for IP: 192.168.200.143
+2023-12-07 17:21:51,928 - INFO - Device status: True
+2023-12-07 17:21:51,928 - INFO - Establishing a network connection to IP: 192.168.200.143
+2023-12-07 17:21:51,961 - INFO - Network connection established: True
+2023-12-07 17:21:51,962 - INFO - Retrieving transaction logs for IP: 192.168.200.143 from 06/12/2023 17:21:51 to 07/12/2023 17:21:51
+2023-12-07 17:21:52,580 - ERROR - Error during network communication: 'AttributeError' object has no attribute 'ToString'
+2023-12-07 17:21:52,581 - INFO - Total logs retrieved: 0
+2023-12-07 17:21:52,582 - INFO - Finished
+2023-12-07 17:22:29,836 - INFO - Checking device status for IP: 192.168.200.143
+2023-12-07 17:22:29,879 - INFO - Device status: True
+2023-12-07 17:22:29,879 - INFO - Establishing a network connection to IP: 192.168.200.143
+2023-12-07 17:22:29,918 - INFO - Network connection established: True
+2023-12-07 17:22:29,918 - INFO - Retrieving transaction logs for IP: 192.168.200.143 from 06/12/2023 17:22:29 to 07/12/2023 17:22:29
+2023-12-07 17:22:30,521 - ERROR - Error during network communication: 'AttributeError' object has no attribute 'ToString'
+2023-12-07 17:22:30,521 - INFO - Total logs retrieved: 0
+2023-12-07 17:22:30,522 - INFO - Finished
+2023-12-07 17:26:41,420 - INFO - Checking device status for IP: 192.168.200.143
+2023-12-07 17:26:41,450 - INFO - Device status: True
+2023-12-07 17:26:41,450 - INFO - Establishing a network connection to IP: 192.168.200.143
+2023-12-07 17:26:41,477 - INFO - Network connection established: True
+2023-12-07 17:26:41,479 - INFO - Retrieving transaction logs for IP: 192.168.200.143 from 06/12/2023 17:26:41 to 07/12/2023 17:26:41
+2023-12-07 17:26:42,027 - ERROR - Error during network communication: 'AttributeError' object has no attribute 'ToString'
+2023-12-07 17:26:42,027 - INFO - Total logs retrieved: 0
+2023-12-07 17:26:42,029 - INFO - Finished
+2023-12-07 17:30:51,595 - INFO - Checking device status for IP: 192.168.200.143
+2023-12-07 17:30:51,645 - INFO - Device status: True
+2023-12-07 17:30:51,645 - INFO - Establishing a network connection to IP: 192.168.200.143
+2023-12-07 17:30:51,676 - INFO - Network connection established: True
+2023-12-07 17:30:51,678 - INFO - Retrieving transaction logs for IP: 192.168.200.143 from 06/12/2023 17:30:51 to 07/12/2023 17:30:51
+2023-12-07 17:30:52,259 - ERROR - Error during network communication: 'TypeError' object has no attribute 'ToString'
+2023-12-07 17:30:52,260 - INFO - Total logs retrieved: 0
+2023-12-07 17:30:52,262 - INFO - Finished
+2023-12-07 17:32:41,957 - INFO - Checking device status for IP: 192.168.200.143
+2023-12-07 17:32:42,007 - INFO - Device status: True
+2023-12-07 17:32:42,007 - INFO - Establishing a network connection to IP: 192.168.200.143
+2023-12-07 17:32:42,067 - INFO - Network connection established: True
+2023-12-07 17:32:42,068 - INFO - Retrieving transaction logs for IP: 192.168.200.143 from 06/12/2023 17:32:41 to 07/12/2023 17:32:41
+2023-12-07 17:32:42,656 - ERROR - Error during network communication: not enough values to unpack (expected 2, got 0)
+2023-12-07 17:32:42,656 - INFO - Total logs retrieved: 0
+2023-12-07 17:32:42,656 - INFO - Finished
+2023-12-07 17:34:06,718 - INFO - Checking device status for IP: 192.168.200.143
+2023-12-07 17:34:06,785 - INFO - Device status: True
+2023-12-07 17:34:06,785 - INFO - Establishing a network connection to IP: 192.168.200.143
+2023-12-07 17:34:06,817 - INFO - Network connection established: True
+2023-12-07 17:34:06,819 - INFO - Retrieving transaction logs for IP: 192.168.200.143 from 06/12/2023 17:34:06 to 07/12/2023 17:34:06
+2023-12-07 17:34:07,428 - ERROR - Error during network communication: not enough values to unpack (expected 2, got 0)
+2023-12-07 17:34:07,428 - INFO - Total logs retrieved: 0
+2023-12-07 17:34:07,429 - INFO - Finished
+2023-12-07 17:34:41,762 - INFO - Checking device status for IP: 192.168.200.143
+2023-12-07 17:34:41,921 - INFO - Device status: True
+2023-12-07 17:34:41,922 - INFO - Establishing a network connection to IP: 192.168.200.143
+2023-12-07 17:34:42,032 - INFO - Network connection established: True
+2023-12-07 17:34:42,033 - INFO - Retrieving transaction logs for IP: 192.168.200.143 from 06/12/2023 17:34:41 to 07/12/2023 17:34:41
+2023-12-07 17:34:42,585 - ERROR - Error during network communication: not enough values to unpack (expected 2, got 0)
+2023-12-07 17:34:42,586 - INFO - Total logs retrieved: 0
+2023-12-07 17:34:42,586 - INFO - Finished
+2023-12-07 17:35:24,328 - INFO - Checking device status for IP: 192.168.200.143
+2023-12-07 17:35:24,381 - INFO - Device status: True
+2023-12-07 17:35:24,381 - INFO - Establishing a network connection to IP: 192.168.200.143
+2023-12-07 17:35:24,426 - INFO - Network connection established: True
+2023-12-07 17:35:24,427 - INFO - Retrieving transaction logs for IP: 192.168.200.143 from 06/12/2023 17:35:24 to 07/12/2023 17:35:24
+2023-12-07 17:35:25,056 - ERROR - Error during network communication: not enough values to unpack (expected 2, got 0)
+2023-12-07 17:35:25,056 - INFO - Total logs retrieved: 0
+2023-12-07 17:35:25,058 - INFO - Finished
+2023-12-07 17:36:26,799 - INFO - Checking device status for IP: 192.168.200.143
+2023-12-07 17:36:26,855 - INFO - Device status: True
+2023-12-07 17:36:26,855 - INFO - Establishing a network connection to IP: 192.168.200.143
+2023-12-07 17:36:26,913 - INFO - Network connection established: True
+2023-12-07 17:36:26,914 - INFO - Retrieving transaction logs for IP: 192.168.200.143 from 06/12/2023 17:36:26 to 07/12/2023 17:36:26
+2023-12-07 17:36:28,090 - ERROR - Error during network communication: not enough values to unpack (expected 2, got 0)
+2023-12-07 17:36:28,090 - INFO - Total logs retrieved: 0
+2023-12-07 17:36:28,091 - INFO - Finished
+2023-12-07 17:37:01,955 - INFO - Checking device status for IP: 192.168.200.143
+2023-12-07 17:37:01,999 - INFO - Device status: True
+2023-12-07 17:37:01,999 - INFO - Establishing a network connection to IP: 192.168.200.143
+2023-12-07 17:37:02,047 - INFO - Network connection established: True
+2023-12-07 17:37:02,048 - INFO - Retrieving transaction logs for IP: 192.168.200.143 from 06/12/2023 17:37:01 to 07/12/2023 17:37:01
+2023-12-07 17:37:02,623 - ERROR - Error during network communication: not enough values to unpack (expected 2, got 0)
+2023-12-07 17:37:02,623 - INFO - Total logs retrieved: 0
+2023-12-07 17:37:02,624 - INFO - Finished
+2023-12-07 17:37:26,276 - INFO - Checking device status for IP: 192.168.200.143
+2023-12-07 17:37:26,338 - INFO - Device status: True
+2023-12-07 17:37:26,339 - INFO - Establishing a network connection to IP: 192.168.200.143
+2023-12-07 17:37:26,384 - INFO - Network connection established: True
+2023-12-07 17:37:26,386 - INFO - Retrieving transaction logs for IP: 192.168.200.143 from 06/12/2023 17:37:26 to 07/12/2023 17:37:26
+2023-12-07 17:37:26,948 - ERROR - Error during network communication: not enough values to unpack (expected 2, got 0)
+2023-12-07 17:37:26,948 - INFO - Total logs retrieved: 0
+2023-12-07 17:37:26,949 - INFO - Finished
+2023-12-07 17:39:34,684 - INFO - Checking device status for IP: 192.168.200.143
+2023-12-07 17:39:34,739 - INFO - Device status: True
+2023-12-07 17:39:34,739 - INFO - Establishing a network connection to IP: 192.168.200.143
+2023-12-07 17:39:34,799 - INFO - Network connection established: True
+2023-12-07 17:39:34,801 - INFO - Retrieving transaction logs for IP: 192.168.200.143 from 06/12/2023 17:39:34 to 07/12/2023 17:39:34
+2023-12-07 17:39:35,349 - ERROR - Error during network communication: not enough values to unpack (expected 2, got 0)
+2023-12-07 17:39:35,349 - INFO - Total logs retrieved: 0
+2023-12-07 17:39:35,351 - INFO - Finished
+2023-12-07 17:46:34,627 - INFO - Checking device status for IP: 192.168.200.143
+2023-12-07 17:46:34,681 - INFO - Device status: True
+2023-12-07 17:46:34,681 - INFO - Establishing a network connection to IP: 192.168.200.143
+2023-12-07 17:46:34,739 - INFO - Network connection established: True
+2023-12-07 17:46:34,741 - INFO - Retrieving transaction logs for IP: 192.168.200.143 from 06/12/2023 17:46:34 to 07/12/2023 17:46:34
+2023-12-07 17:46:35,319 - INFO - Total logs retrieved: []
+2023-12-07 17:46:35,321 - INFO - Finished
+2023-12-07 17:48:08,466 - INFO - Checking device status for IP: 192.168.200.143
+2023-12-07 17:48:08,527 - INFO - Device status: True
+2023-12-07 17:48:08,528 - INFO - Establishing a network connection to IP: 192.168.200.143
+2023-12-07 17:48:08,561 - INFO - Network connection established: True
+2023-12-07 17:48:08,562 - INFO - Retrieving transaction logs for IP: 192.168.200.143 from 06/12/2023 17:48:08 to 07/12/2023 17:48:08
+2023-12-07 17:48:09,194 - INFO - Total logs retrieved: []
+2023-12-07 17:48:09,194 - INFO - Finished
+2023-12-07 17:56:57,094 - INFO - Checking device status for IP: 192.168.200.143
+2023-12-07 17:56:57,150 - INFO - Device status: True
+2023-12-07 17:56:57,150 - INFO - Establishing a network connection to IP: 192.168.200.143
+2023-12-07 17:56:57,179 - INFO - Network connection established: True
+2023-12-07 17:56:57,180 - INFO - Retrieving transaction logs for IP: 192.168.200.143 from 06/12/2023 17:56:57 to 07/12/2023 17:56:57
+2023-12-07 17:56:57,719 - INFO - Total logs retrieved: []
+2023-12-07 17:56:57,722 - INFO - Finished
+2023-12-07 18:01:44,127 - INFO - Checking device status for IP: 192.168.200.143
+2023-12-07 18:01:44,179 - INFO - Device status: True
+2023-12-07 18:01:44,179 - INFO - Establishing a network connection to IP: 192.168.200.143
+2023-12-07 18:01:44,214 - INFO - Network connection established: True
+2023-12-07 18:01:44,215 - INFO - Retrieving transaction logs for IP: 192.168.200.143 from 06/12/2023 18:01:44 to 07/12/2023 18:01:44
+2023-12-07 18:01:44,785 - INFO - Total logs retrieved: []
+2023-12-07 18:01:44,786 - INFO - Finished
+2023-12-07 18:02:54,019 - INFO - Checking device status for IP: 192.168.200.143
+2023-12-07 18:02:54,073 - INFO - Device status: True
+2023-12-07 18:02:54,074 - INFO - Establishing a network connection to IP: 192.168.200.143
+2023-12-07 18:02:54,100 - INFO - Network connection established: True
+2023-12-07 18:02:54,101 - INFO - Retrieving transaction logs for IP: 192.168.200.143 from 06/12/2023 18:02:54 to 07/12/2023 18:02:54
+2023-12-07 18:02:54,700 - INFO - Total logs retrieved: []
+2023-12-07 18:02:54,701 - INFO - Finished
+2023-12-07 18:04:00,405 - INFO - Checking device status for IP: 192.168.200.143
+2023-12-07 18:04:00,454 - INFO - Device status: True
+2023-12-07 18:04:00,454 - INFO - Establishing a network connection to IP: 192.168.200.143
+2023-12-07 18:04:00,483 - INFO - Network connection established: True
+2023-12-07 18:04:00,485 - INFO - Retrieving transaction logs for IP: 192.168.200.143 from 06/12/2023 18:04:00 to 07/12/2023 18:04:00
+2023-12-07 18:04:01,031 - INFO - Total logs retrieved: []
+2023-12-07 18:04:01,032 - INFO - Finished
+2023-12-07 18:05:51,461 - INFO - Checking device status for IP: 192.168.200.143
+2023-12-07 18:05:51,531 - INFO - Device status: True
+2023-12-07 18:05:51,532 - INFO - Establishing a network connection to IP: 192.168.200.143
+2023-12-07 18:05:51,560 - INFO - Network connection established: True
+2023-12-07 18:05:51,560 - INFO - Retrieving transaction logs for IP: 192.168.200.143 from 06/12/2023 18:05:51 to 07/12/2023 18:05:51
+2023-12-07 18:05:52,085 - INFO - Total logs retrieved: []
+2023-12-07 18:05:52,086 - INFO - Finished
+2023-12-07 18:07:43,721 - INFO - Checking device status for IP: 192.168.200.143
+2023-12-07 18:07:43,785 - INFO - Device status: True
+2023-12-07 18:07:43,785 - INFO - Establishing a network connection to IP: 192.168.200.143
+2023-12-07 18:07:43,820 - INFO - Network connection established: True
+2023-12-07 18:07:43,821 - INFO - Retrieving transaction logs for IP: 192.168.200.143 from 06/12/2023 18:07:43 to 07/12/2023 18:07:43
+2023-12-07 18:07:44,393 - INFO - Total logs retrieved: []
+2023-12-07 18:07:44,394 - INFO - Finished
+2023-12-07 18:08:36,237 - INFO - Checking device status for IP: 192.168.200.143
+2023-12-07 18:08:36,294 - INFO - Device status: True
+2023-12-07 18:08:36,295 - INFO - Establishing a network connection to IP: 192.168.200.143
+2023-12-07 18:08:36,323 - INFO - Network connection established: True
+2023-12-07 18:08:36,324 - INFO - Retrieving transaction logs for IP: 192.168.200.143 from 06/12/2023 18:08:36 to 07/12/2023 18:08:36
+2023-12-07 18:08:37,001 - INFO - Total logs retrieved: []
+2023-12-07 18:08:37,001 - INFO - Finished
+2023-12-07 18:10:54,258 - INFO - Checking device status for IP: 192.168.200.143
+2023-12-07 18:10:54,291 - INFO - Device status: True
+2023-12-07 18:10:54,291 - INFO - Establishing a network connection to IP: 192.168.200.143
+2023-12-07 18:10:54,311 - INFO - Network connection established: True
+2023-12-07 18:10:54,312 - INFO - Retrieving transaction logs for IP: 192.168.200.143 from 06/12/2023 18:10:54 to 07/12/2023 18:10:54
+2023-12-07 18:10:54,896 - INFO - Total logs retrieved: []
+2023-12-07 18:10:54,897 - INFO - Finished
+2023-12-07 18:12:04,440 - INFO - Checking device status for IP: 192.168.200.143
+2023-12-07 18:12:04,485 - INFO - Device status: True
+2023-12-07 18:12:04,485 - INFO - Establishing a network connection to IP: 192.168.200.143
+2023-12-07 18:12:04,503 - INFO - Network connection established: True
+2023-12-07 18:12:04,504 - INFO - Retrieving transaction logs for IP: 192.168.200.143 from 06/12/2023 18:12:04 to 07/12/2023 18:12:04
+2023-12-07 18:12:05,043 - INFO - Total logs retrieved: []
+2023-12-07 18:12:05,044 - INFO - Finished
+2023-12-07 18:12:46,558 - INFO - Checking device status for IP: 192.168.200.143
+2023-12-07 18:12:46,594 - INFO - Device status: True
+2023-12-07 18:12:46,594 - INFO - Establishing a network connection to IP: 192.168.200.143
+2023-12-07 18:12:46,627 - INFO - Network connection established: True
+2023-12-07 18:12:46,628 - INFO - Retrieving transaction logs for IP: 192.168.200.143 from 06/12/2023 18:12:46 to 07/12/2023 18:12:46
+2023-12-07 18:12:47,283 - INFO - Total logs retrieved: []
+2023-12-07 18:12:47,284 - INFO - Finished
+2023-12-07 18:14:42,876 - INFO - Checking device status for IP: 192.168.200.143
+2023-12-07 18:14:42,908 - INFO - Device status: True
+2023-12-07 18:14:42,910 - INFO - Establishing a network connection to IP: 192.168.200.143
+2023-12-07 18:14:42,940 - INFO - Network connection established: True
+2023-12-07 18:14:42,941 - INFO - Retrieving transaction logs for IP: 192.168.200.143 from 06/12/2023 18:14:42 to 07/12/2023 18:14:42
+2023-12-07 18:14:43,470 - INFO - Total logs retrieved: []
+2023-12-07 18:14:43,470 - INFO - Finished
+2023-12-07 18:15:06,605 - INFO - Checking device status for IP: 192.168.200.143
+2023-12-07 18:15:06,735 - INFO - Device status: True
+2023-12-07 18:15:06,735 - INFO - Establishing a network connection to IP: 192.168.200.143
+2023-12-07 18:15:06,755 - INFO - Network connection established: True
+2023-12-07 18:15:06,756 - INFO - Retrieving transaction logs for IP: 192.168.200.143 from 06/12/2023 18:15:06 to 07/12/2023 18:15:06
+2023-12-07 18:15:07,320 - INFO - Total logs retrieved: []
+2023-12-07 18:15:07,320 - INFO - Finished
+2023-12-07 18:15:32,365 - INFO - Checking device status for IP: 192.168.200.143
+2023-12-07 18:15:32,410 - INFO - Device status: True
+2023-12-07 18:15:32,410 - INFO - Establishing a network connection to IP: 192.168.200.143
+2023-12-07 18:15:32,432 - INFO - Network connection established: True
+2023-12-07 18:15:32,433 - INFO - Retrieving transaction logs for IP: 192.168.200.143 from 06/12/2023 18:15:32 to 07/12/2023 18:15:32
+2023-12-07 18:15:32,993 - INFO - Total logs retrieved: []
+2023-12-07 18:15:32,993 - INFO - Finished
+2023-12-07 18:15:39,016 - INFO - Checking device status for IP: 192.168.200.143
+2023-12-07 18:15:39,080 - INFO - Device status: True
+2023-12-07 18:15:39,080 - INFO - Establishing a network connection to IP: 192.168.200.143
+2023-12-07 18:15:39,110 - INFO - Network connection established: True
+2023-12-07 18:15:39,110 - INFO - Retrieving transaction logs for IP: 192.168.200.143 from 06/12/2023 18:15:39 to 07/12/2023 18:15:39
+2023-12-07 18:15:39,680 - INFO - Total logs retrieved: []
+2023-12-07 18:15:39,680 - INFO - Finished
+2023-12-07 18:18:27,430 - INFO - Checking device status for IP: 192.168.200.143
+2023-12-07 18:18:27,950 - INFO - Device status: True
+2023-12-07 18:18:27,950 - INFO - Establishing a network connection to IP: 192.168.200.143
+2023-12-07 18:18:27,984 - INFO - Network connection established: True
+2023-12-07 18:18:27,990 - INFO - Retrieving transaction logs for IP: 192.168.200.143 from 06/12/2023 18:18:27 to 07/12/2023 18:18:27
+2023-12-07 18:18:28,575 - INFO - Total logs retrieved: []
+2023-12-07 18:18:28,580 - INFO - Finished
+2023-12-07 18:19:00,860 - INFO - Checking device status for IP: 192.168.200.143
+2023-12-07 18:19:00,896 - INFO - Device status: True
+2023-12-07 18:19:00,897 - INFO - Establishing a network connection to IP: 192.168.200.143
+2023-12-07 18:19:00,937 - INFO - Network connection established: True
+2023-12-07 18:19:00,940 - INFO - Retrieving transaction logs for IP: 192.168.200.143 from 06/12/2023 18:19:00 to 07/12/2023 18:19:00
+2023-12-07 18:19:01,491 - INFO - Total logs retrieved: []
+2023-12-07 18:19:01,492 - INFO - Finished
+2023-12-07 18:21:01,275 - INFO - Checking device status for IP: 192.168.200.143
+2023-12-07 18:21:01,333 - INFO - Device status: True
+2023-12-07 18:21:01,333 - INFO - Establishing a network connection to IP: 192.168.200.143
+2023-12-07 18:21:01,380 - INFO - Network connection established: True
+2023-12-07 18:21:01,380 - INFO - Retrieving transaction logs for IP: 192.168.200.143 from 06/12/2023 18:21:01 to 07/12/2023 18:21:01
+2023-12-07 18:21:02,040 - INFO - Total logs retrieved: []
+2023-12-07 18:21:02,040 - INFO - Finished
+2023-12-07 18:21:26,796 - INFO - Checking device status for IP: 192.168.200.85
+2023-12-07 18:21:26,827 - INFO - Device status: True
+2023-12-07 18:21:26,827 - INFO - Establishing a network connection to IP: 192.168.200.85
+2023-12-07 18:21:26,863 - INFO - Network connection established: True
+2023-12-07 18:21:26,863 - INFO - Retrieving transaction logs for IP: 192.168.200.85 from 06/12/2023 18:21:26 to 07/12/2023 18:21:26
+2023-12-07 18:21:27,458 - INFO - Total logs retrieved: []
+2023-12-07 18:21:27,458 - INFO - Finished
+2023-12-07 18:23:49,801 - INFO - Checking device status for IP: 192.168.200.143
+2023-12-07 18:23:49,840 - INFO - Device status: True
+2023-12-07 18:23:49,840 - INFO - Establishing a network connection to IP: 192.168.200.143
+2023-12-07 18:23:49,890 - INFO - Network connection established: True
+2023-12-07 18:23:49,890 - INFO - Retrieving transaction logs for IP: 192.168.200.143 from 06/12/2023 18:23:49 to 07/12/2023 18:23:49
+2023-12-07 18:23:50,510 - INFO - Total logs retrieved: []
+2023-12-07 18:23:50,510 - INFO - Finished
+2023-12-07 18:25:21,547 - INFO - Checking device status for IP: 192.168.200.143
+2023-12-07 18:25:21,590 - INFO - Device status: True
+2023-12-07 18:25:21,590 - INFO - Establishing a network connection to IP: 192.168.200.143
+2023-12-07 18:25:21,620 - INFO - Network connection established: True
+2023-12-07 18:25:21,620 - INFO - Retrieving transaction logs for IP: 192.168.200.143 from 06/12/2023 18:25:21 to 07/12/2023 18:25:21
+2023-12-07 18:25:22,171 - INFO - Total logs retrieved: []
+2023-12-07 18:25:22,171 - INFO - Finished
+2023-12-07 18:27:16,266 - INFO - Checking device status for IP: 192.168.200.143
+2023-12-07 18:27:16,664 - INFO - Device status: True
+2023-12-07 18:27:16,664 - INFO - Establishing a network connection to IP: 192.168.200.143
+2023-12-07 18:27:16,696 - INFO - Network connection established: True
+2023-12-07 18:27:16,699 - INFO - Retrieving transaction logs for IP: 192.168.200.143 from 06/12/2023 18:27:16 to 07/12/2023 18:27:16
+2023-12-07 18:27:17,243 - INFO - Total logs retrieved: []
+2023-12-07 18:27:17,243 - INFO - Finished
+2023-12-07 18:27:46,703 - INFO - Checking device status for IP: 192.168.200.143
+2023-12-07 18:27:46,773 - INFO - Device status: True
+2023-12-07 18:27:46,774 - INFO - Establishing a network connection to IP: 192.168.200.143
+2023-12-07 18:27:46,815 - INFO - Network connection established: True
+2023-12-07 18:27:46,815 - INFO - Retrieving transaction logs for IP: 192.168.200.143 from 06/12/2023 18:27:46 to 07/12/2023 18:27:46
+2023-12-07 18:27:47,531 - INFO - Total logs retrieved: ['65565565655565656556556565', '65565565655565656556556565', '65565565655565656556556565', '65565565655565656556556565', '65565565655565656556556565', '65565565655565656556556565', '65565565655565656556556565', '65565565655565656556556565', '65565565655565656556556565', '65565565655565656556556565', '65565565655565656556556565', '65565565655565656556556565', '65565565655565656556556565', '65565565655565656556556565', '65565565655565656556556565', '65565565655565656556556565', '65565565655565656556556565', '65565565655565656556556565', '65565565655565656556556565', '65565565655565656556556565', '65565565655565656556556565']
+2023-12-07 18:27:47,541 - INFO - Finished
+2023-12-07 18:28:21,126 - INFO - Checking device status for IP: 192.168.200.143
+2023-12-07 18:28:21,253 - INFO - Device status: True
+2023-12-07 18:28:21,260 - INFO - Establishing a network connection to IP: 192.168.200.143
+2023-12-07 18:28:21,281 - INFO - Network connection established: True
+2023-12-07 18:28:21,281 - INFO - Retrieving transaction logs for IP: 192.168.200.143 from 06/12/2023 18:28:21 to 07/12/2023 18:28:21
+2023-12-07 18:28:21,995 - INFO - Total logs retrieved: ['65565565655565656556556565', '65565565655565656556556565', '65565565655565656556556565', '65565565655565656556556565', '65565565655565656556556565', '65565565655565656556556565', '65565565655565656556556565', '65565565655565656556556565', '65565565655565656556556565', '65565565655565656556556565', '65565565655565656556556565', '65565565655565656556556565', '65565565655565656556556565', '65565565655565656556556565', '65565565655565656556556565', '65565565655565656556556565', '65565565655565656556556565', '65565565655565656556556565', '65565565655565656556556565', '65565565655565656556556565', '65565565655565656556556565']
+2023-12-07 18:28:21,996 - INFO - Finished
+2023-12-07 18:28:28,750 - INFO - Checking device status for IP: 192.168.200.143
+2023-12-07 18:28:28,790 - INFO - Device status: True
+2023-12-07 18:28:28,790 - INFO - Establishing a network connection to IP: 192.168.200.143
+2023-12-07 18:28:28,815 - INFO - Network connection established: True
+2023-12-07 18:28:28,816 - INFO - Retrieving transaction logs for IP: 192.168.200.143 from 06/12/2023 18:28:28 to 07/12/2023 18:28:28
+2023-12-07 18:28:29,471 - INFO - Total logs retrieved: ['65565565655565656556556565', '65565565655565656556556565', '65565565655565656556556565', '65565565655565656556556565', '65565565655565656556556565', '65565565655565656556556565', '65565565655565656556556565', '65565565655565656556556565', '65565565655565656556556565', '65565565655565656556556565', '65565565655565656556556565', '65565565655565656556556565', '65565565655565656556556565', '65565565655565656556556565', '65565565655565656556556565', '65565565655565656556556565', '65565565655565656556556565', '65565565655565656556556565', '65565565655565656556556565', '65565565655565656556556565', '65565565655565656556556565']
+2023-12-07 18:28:29,471 - INFO - Finished
+2023-12-07 18:32:47,760 - INFO - Checking device status for IP: 192.168.200.143
+2023-12-07 18:32:47,805 - INFO - Device status: True
+2023-12-07 18:32:47,805 - INFO - Establishing a network connection to IP: 192.168.200.143
+2023-12-07 18:32:47,820 - INFO - Network connection established: True
+2023-12-07 18:32:47,820 - INFO - Retrieving transaction logs for IP: 192.168.200.143 from 06/12/2023 18:32:47 to 07/12/2023 18:32:47
+2023-12-07 18:32:48,437 - INFO - Total logs retrieved: []
+2023-12-07 18:32:48,438 - INFO - Finished
+2023-12-07 18:37:09,130 - INFO - Checking device status for IP: 192.168.200.143
+2023-12-07 18:37:09,161 - INFO - Device status: True
+2023-12-07 18:37:09,161 - INFO - Establishing a network connection to IP: 192.168.200.143
+2023-12-07 18:37:09,181 - INFO - Network connection established: True
+2023-12-07 18:37:09,181 - INFO - Retrieving transaction logs for IP: 192.168.200.143 from 06/12/2023 18:37:09 to 07/12/2023 18:37:09
+2023-12-07 18:37:09,766 - INFO - Total logs retrieved: []
+2023-12-07 18:37:09,766 - INFO - Finished
+2023-12-07 18:38:19,552 - INFO - Checking device status for IP: 192.168.200.143
+2023-12-07 18:38:19,590 - INFO - Device status: True
+2023-12-07 18:38:19,590 - INFO - Establishing a network connection to IP: 192.168.200.143
+2023-12-07 18:38:19,612 - INFO - Network connection established: True
+2023-12-07 18:38:19,612 - INFO - Retrieving transaction logs for IP: 192.168.200.143 from 06/12/2023 18:38:19 to 07/12/2023 18:38:19
+2023-12-07 18:38:20,210 - INFO - Total logs retrieved: []
+2023-12-07 18:38:20,210 - INFO - Finished
+2023-12-07 18:38:46,649 - INFO - Checking device status for IP: 192.168.200.143
+2023-12-07 18:38:46,679 - INFO - Device status: True
+2023-12-07 18:38:46,679 - INFO - Establishing a network connection to IP: 192.168.200.143
+2023-12-07 18:38:46,721 - INFO - Network connection established: True
+2023-12-07 18:38:46,721 - INFO - Retrieving transaction logs for IP: 192.168.200.143 from 06/12/2023 18:38:46 to 07/12/2023 18:38:46
+2023-12-07 18:38:47,340 - INFO - Total logs retrieved: []
+2023-12-07 18:38:47,341 - INFO - Finished
+2023-12-07 18:39:26,360 - INFO - Checking device status for IP: 192.168.200.143
+2023-12-07 18:39:26,394 - INFO - Device status: True
+2023-12-07 18:39:26,394 - INFO - Establishing a network connection to IP: 192.168.200.143
+2023-12-07 18:39:26,412 - INFO - Network connection established: True
+2023-12-07 18:39:26,412 - INFO - Retrieving transaction logs for IP: 192.168.200.143 from 06/12/2023 18:39:26 to 07/12/2023 18:39:26
+2023-12-07 18:39:27,100 - INFO - Total logs retrieved: []
+2023-12-07 18:39:27,100 - INFO - Finished
+2023-12-07 18:40:05,676 - INFO - Checking device status for IP: 192.168.200.143
+2023-12-07 18:40:05,721 - INFO - Device status: True
+2023-12-07 18:40:05,721 - INFO - Establishing a network connection to IP: 192.168.200.143
+2023-12-07 18:40:05,741 - INFO - Network connection established: True
+2023-12-07 18:40:05,741 - INFO - Retrieving transaction logs for IP: 192.168.200.143 from 06/12/2023 18:40:05 to 07/12/2023 18:40:05
+2023-12-07 18:40:06,322 - INFO - Total logs retrieved: []
+2023-12-07 18:40:06,322 - INFO - Finished
+2023-12-07 18:40:24,401 - INFO - Checking device status for IP: 192.168.200.143
+2023-12-07 18:40:24,431 - INFO - Device status: True
+2023-12-07 18:40:24,431 - INFO - Establishing a network connection to IP: 192.168.200.143
+2023-12-07 18:40:24,445 - INFO - Network connection established: True
+2023-12-07 18:40:24,445 - INFO - Retrieving transaction logs for IP: 192.168.200.143 from 06/12/2023 18:40:24 to 07/12/2023 18:40:24
+2023-12-07 18:40:25,041 - INFO - Total logs retrieved: []
+2023-12-07 18:40:25,041 - INFO - Finished
+2023-12-07 18:41:23,361 - INFO - Checking device status for IP: 192.168.200.143
+2023-12-07 18:41:23,411 - INFO - Device status: True
+2023-12-07 18:41:23,411 - INFO - Establishing a network connection to IP: 192.168.200.143
+2023-12-07 18:41:23,433 - INFO - Network connection established: True
+2023-12-07 18:41:23,434 - INFO - Retrieving transaction logs for IP: 192.168.200.143 from 06/12/2023 18:41:23 to 07/12/2023 18:41:23
+2023-12-07 18:41:24,001 - INFO - Total logs retrieved: []
+2023-12-07 18:41:24,162 - INFO - Finished
+2023-12-07 18:41:53,817 - INFO - Checking device status for IP: 192.168.200.143
+2023-12-07 18:41:53,851 - INFO - Device status: True
+2023-12-07 18:41:53,851 - INFO - Establishing a network connection to IP: 192.168.200.143
+2023-12-07 18:41:53,871 - INFO - Network connection established: True
+2023-12-07 18:41:53,871 - INFO - Retrieving transaction logs for IP: 192.168.200.143 from 06/12/2023 18:41:53 to 07/12/2023 18:41:53
+2023-12-07 18:41:54,488 - INFO - Total logs retrieved: [{'UserRecordId': '112010031', 'check_date': '06/12/2023', 'check_time': '12:43:17'}, {'UserRecordId': '112010031', 'check_date': '06/12/2023', 'check_time': '12:43:26'}, {'UserRecordId': '112010031', 'check_date': '06/12/2023', 'check_time': '12:44:24'}, {'UserRecordId': '112010031', 'check_date': '06/12/2023', 'check_time': '12:44:26'}, {'UserRecordId': '112010031', 'check_date': '06/12/2023', 'check_time': '12:45:45'}, {'UserRecordId': '112010031', 'check_date': '06/12/2023', 'check_time': '12:45:52'}, {'UserRecordId': '112010031', 'check_date': '06/12/2023', 'check_time': '12:46:00'}, {'UserRecordId': '112010031', 'check_date': '06/12/2023', 'check_time': '12:54:46'}, {'UserRecordId': '112010031', 'check_date': '06/12/2023', 'check_time': '13:02:50'}, {'UserRecordId': '112010031', 'check_date': '06/12/2023', 'check_time': '13:04:28'}, {'UserRecordId': None, 'check_date': '06/12/2023', 'check_time': '13:14:01'}, {'UserRecordId': '112010031', 'check_date': '06/12/2023', 'check_time': '13:51:52'}, {'UserRecordId': '112010031', 'check_date': '07/12/2023', 'check_time': '14:30:56'}, {'UserRecordId': '112010031', 'check_date': '07/12/2023', 'check_time': '14:31:06'}, {'UserRecordId': '112010031', 'check_date': '07/12/2023', 'check_time': '14:37:53'}, {'UserRecordId': None, 'check_date': '07/12/2023', 'check_time': '14:46:32'}, {'UserRecordId': '112010031', 'check_date': '07/12/2023', 'check_time': '16:21:53'}, {'UserRecordId': '112010031', 'check_date': '07/12/2023', 'check_time': '16:22:06'}, {'UserRecordId': '112010031', 'check_date': '07/12/2023', 'check_time': '16:22:13'}, {'UserRecordId': '112010031', 'check_date': '07/12/2023', 'check_time': '16:22:18'}, {'UserRecordId': '112010031', 'check_date': '07/12/2023', 'check_time': '16:22:23'}]
+2023-12-07 18:41:54,488 - INFO - Finished
+2023-12-07 18:43:27,657 - INFO - Checking device status for IP: 192.168.200.143
+2023-12-07 18:43:27,712 - INFO - Device status: True
+2023-12-07 18:43:27,712 - INFO - Establishing a network connection to IP: 192.168.200.143
+2023-12-07 18:43:27,754 - INFO - Network connection established: True
+2023-12-07 18:43:27,755 - INFO - Retrieving transaction logs for IP: 192.168.200.143 from 06/12/2023 18:43:27 to 07/12/2023 18:43:27
+2023-12-07 18:43:28,396 - ERROR - Error during network communication: too many values to unpack (expected 2)
+2023-12-07 18:43:28,396 - INFO - Total logs retrieved: 0
+2023-12-07 18:43:28,397 - INFO - Finished
+2023-12-08 12:43:51,210 - INFO - Checking device status for IP: 192.168.200.143
+2023-12-08 12:43:51,252 - INFO - Device status: True
+2023-12-08 12:43:51,253 - INFO - Establishing a network connection to IP: 192.168.200.143
+2023-12-08 12:43:51,261 - INFO - Network connection established: True
+2023-12-08 12:43:51,261 - INFO - Retrieving transaction logs for IP: 192.168.200.143 from 07/12/2023 12:43:51 to 08/12/2023 12:43:51
+2023-12-08 12:43:51,759 - INFO - Total logs retrieved: [{'UserRecordId': '112010031', 'check_date': '07/12/2023', 'check_time': '14:30:56'}, {'UserRecordId': '112010031', 'check_date': '07/12/2023', 'check_time': '14:31:06'}, {'UserRecordId': '112010031', 'check_date': '07/12/2023', 'check_time': '14:37:53'}, {'UserRecordId': None, 'check_date': '07/12/2023', 'check_time': '14:46:32'}, {'UserRecordId': '112010031', 'check_date': '07/12/2023', 'check_time': '16:21:53'}, {'UserRecordId': '112010031', 'check_date': '07/12/2023', 'check_time': '16:22:06'}, {'UserRecordId': '112010031', 'check_date': '07/12/2023', 'check_time': '16:22:13'}, {'UserRecordId': '112010031', 'check_date': '07/12/2023', 'check_time': '16:22:18'}, {'UserRecordId': '112010031', 'check_date': '07/12/2023', 'check_time': '16:22:23'}]
+2023-12-08 12:43:51,760 - INFO - Finished
+2023-12-08 12:53:43,325 - INFO - Checking device status for IP: 192.168.200.143
+2023-12-08 12:53:43,358 - INFO - Device status: True
+2023-12-08 12:53:43,360 - INFO - Establishing a network connection to IP: 192.168.200.143
+2023-12-08 12:53:43,368 - INFO - Network connection established: True
+2023-12-08 12:53:43,378 - INFO - Retrieving transaction logs for IP: 192.168.200.143 from 07/12/2023 12:53:43 to 08/12/2023 12:53:43
+2023-12-08 12:53:43,831 - INFO - Total logs retrieved: [{'UserRecordId': '112010031', 'check_date': '07/12/2023', 'check_time': '14:30:56'}, {'UserRecordId': '112010031', 'check_date': '07/12/2023', 'check_time': '14:31:06'}, {'UserRecordId': '112010031', 'check_date': '07/12/2023', 'check_time': '14:37:53'}, {'UserRecordId': None, 'check_date': '07/12/2023', 'check_time': '14:46:32'}, {'UserRecordId': '112010031', 'check_date': '07/12/2023', 'check_time': '16:21:53'}, {'UserRecordId': '112010031', 'check_date': '07/12/2023', 'check_time': '16:22:06'}, {'UserRecordId': '112010031', 'check_date': '07/12/2023', 'check_time': '16:22:13'}, {'UserRecordId': '112010031', 'check_date': '07/12/2023', 'check_time': '16:22:18'}, {'UserRecordId': '112010031', 'check_date': '07/12/2023', 'check_time': '16:22:23'}, {'UserRecordId': '112010031', 'check_date': '08/12/2023', 'check_time': '12:51:41'}, {'UserRecordId': '112010031', 'check_date': '08/12/2023', 'check_time': '12:51:45'}]
+2023-12-08 12:53:43,831 - INFO - Finished
+2023-12-08 13:02:34,154 - INFO - Checking device status for IP: 192.168.200.143
+2023-12-08 13:02:34,188 - INFO - Device status: True
+2023-12-08 13:02:34,188 - INFO - Establishing a network connection to IP: 192.168.200.143
+2023-12-08 13:02:34,209 - INFO - Network connection established: True
+2023-12-08 13:02:34,209 - INFO - Retrieving transaction logs for IP: 192.168.200.143 from 07/12/2023 13:02:34 to 08/12/2023 13:02:34
+2023-12-08 13:02:34,625 - INFO - Total logs retrieved: [{'UserRecordId': '112010031', 'check_date': '07/12/2023', 'check_time': '14:30:56'}, {'UserRecordId': '112010031', 'check_date': '07/12/2023', 'check_time': '14:31:06'}, {'UserRecordId': '112010031', 'check_date': '07/12/2023', 'check_time': '14:37:53'}, {'UserRecordId': None, 'check_date': '07/12/2023', 'check_time': '14:46:32'}, {'UserRecordId': '112010031', 'check_date': '07/12/2023', 'check_time': '16:21:53'}, {'UserRecordId': '112010031', 'check_date': '07/12/2023', 'check_time': '16:22:06'}, {'UserRecordId': '112010031', 'check_date': '07/12/2023', 'check_time': '16:22:13'}, {'UserRecordId': '112010031', 'check_date': '07/12/2023', 'check_time': '16:22:18'}, {'UserRecordId': '112010031', 'check_date': '07/12/2023', 'check_time': '16:22:23'}, {'UserRecordId': '112010031', 'check_date': '08/12/2023', 'check_time': '12:51:41'}, {'UserRecordId': '112010031', 'check_date': '08/12/2023', 'check_time': '12:51:45'}]
+2023-12-08 13:02:34,629 - INFO - Finished
+2023-12-08 13:03:02,894 - INFO - Device restarted
+2023-12-08 13:07:02,023 - INFO - Checking device status for IP: 192.168.200.143
+2023-12-08 13:07:02,060 - INFO - Device status: True
+2023-12-08 13:07:02,060 - INFO - Establishing a network connection to IP: 192.168.200.143
+2023-12-08 13:07:02,082 - INFO - Network connection established: True
+2023-12-08 13:07:02,085 - INFO - Retrieving transaction logs for IP: 192.168.200.143 from 07/12/2023 13:07:02 to 08/12/2023 13:07:02
+2023-12-08 13:07:02,549 - INFO - Total logs retrieved: [{'UserRecordId': '112010031', 'check_date': '07/12/2023', 'check_time': '14:30:56'}, {'UserRecordId': '112010031', 'check_date': '07/12/2023', 'check_time': '14:31:06'}, {'UserRecordId': '112010031', 'check_date': '07/12/2023', 'check_time': '14:37:53'}, {'UserRecordId': None, 'check_date': '07/12/2023', 'check_time': '14:46:32'}, {'UserRecordId': '112010031', 'check_date': '07/12/2023', 'check_time': '16:21:53'}, {'UserRecordId': '112010031', 'check_date': '07/12/2023', 'check_time': '16:22:06'}, {'UserRecordId': '112010031', 'check_date': '07/12/2023', 'check_time': '16:22:13'}, {'UserRecordId': '112010031', 'check_date': '07/12/2023', 'check_time': '16:22:18'}, {'UserRecordId': '112010031', 'check_date': '07/12/2023', 'check_time': '16:22:23'}, {'UserRecordId': '112010031', 'check_date': '08/12/2023', 'check_time': '12:51:41'}, {'UserRecordId': '112010031', 'check_date': '08/12/2023', 'check_time': '12:51:45'}]
+2023-12-08 13:07:02,555 - INFO - Finished
+2023-12-08 13:12:56,268 - INFO - Checking device status for IP: 192.168.200.143
+2023-12-08 13:12:56,310 - INFO - Device status: True
+2023-12-08 13:12:56,310 - INFO - Establishing a network connection to IP: 192.168.200.143
+2023-12-08 13:12:56,340 - INFO - Network connection established: True
+2023-12-08 13:12:56,340 - INFO - Retrieving transaction logs for IP: 192.168.200.143 from 07/12/2023 13:12:56 to 08/12/2023 13:12:56
+2023-12-08 13:12:56,798 - INFO - Total logs retrieved: 11
+2023-12-08 13:12:56,798 - INFO - Finished
+2023-12-08 13:13:07,768 - INFO - Device restarted
+2023-12-08 13:15:12,678 - INFO - Checking device status for IP: 192.168.200.143
+2023-12-08 13:15:12,706 - INFO - Device status: True
+2023-12-08 13:15:12,707 - INFO - Establishing a network connection to IP: 192.168.200.143
+2023-12-08 13:15:12,736 - INFO - Network connection established: True
+2023-12-08 13:15:12,738 - INFO - Retrieving transaction logs for IP: 192.168.200.143 from 07/12/2023 13:15:12 to 08/12/2023 13:15:12
+2023-12-08 13:15:13,285 - INFO - Total logs retrieved: 11
+2023-12-08 13:15:13,286 - INFO - Finished
+2023-12-08 13:15:38,440 - INFO - Device restarted
+2023-12-08 13:18:57,833 - INFO - Checking device status for IP: 192.168.200.143
+2023-12-08 13:18:57,874 - INFO - Device status: True
+2023-12-08 13:18:57,874 - INFO - Establishing a network connection to IP: 192.168.200.143
+2023-12-08 13:18:57,909 - INFO - Network connection established: True
+2023-12-08 13:18:57,910 - INFO - Retrieving transaction logs for IP: 192.168.200.143 from 07/12/2023 13:18:57 to 08/12/2023 13:18:57
+2023-12-08 13:18:58,391 - INFO - Total logs retrieved: 11
+2023-12-08 13:18:58,392 - INFO - Finished
+2023-12-08 13:20:12,853 - INFO - Checking device status for IP: 192.168.200.143
+2023-12-08 13:20:12,885 - INFO - Device status: True
+2023-12-08 13:20:12,885 - INFO - Establishing a network connection to IP: 192.168.200.143
+2023-12-08 13:20:12,903 - INFO - Network connection established: True
+2023-12-08 13:20:12,904 - INFO - Retrieving transaction logs for IP: 192.168.200.143 from 07/12/2023 13:20:12 to 08/12/2023 13:20:12
+2023-12-08 13:20:13,328 - INFO - Total logs retrieved: 12
+2023-12-08 13:20:13,330 - INFO - Finished
+2023-12-08 13:21:00,098 - INFO - Checking device status for IP: 192.168.200.85
+2023-12-08 13:21:00,138 - INFO - Device status: True
+2023-12-08 13:21:00,138 - INFO - Establishing a network connection to IP: 192.168.200.85
+2023-12-08 13:21:00,178 - INFO - Network connection established: True
+2023-12-08 13:21:00,178 - INFO - Retrieving transaction logs for IP: 192.168.200.85 from 07/12/2023 13:21:00 to 08/12/2023 13:21:00
+2023-12-08 13:21:00,701 - INFO - Total logs retrieved: 54
+2023-12-08 13:21:00,702 - INFO - Finished
+2023-12-08 13:27:44,754 - INFO - Checking device status for IP: 192.168.200.143
+2023-12-08 13:27:44,799 - INFO - Device status: True
+2023-12-08 13:27:44,799 - INFO - Establishing a network connection to IP: 192.168.200.143
+2023-12-08 13:27:44,818 - INFO - Network connection established: True
+2023-12-08 13:27:44,818 - INFO - Retrieving transaction logs for IP: 192.168.200.143 from 07/12/2023 13:27:44 to 08/12/2023 13:27:44
+2023-12-08 13:27:45,308 - INFO - Total logs retrieved: 12
+2023-12-08 13:27:45,308 - INFO - Finished
+2023-12-08 13:27:54,321 - INFO - Device restarted
+2023-12-08 13:28:47,943 - INFO - Checking device status for IP: 192.168.200.143
+2023-12-08 13:28:47,988 - INFO - Device status: True
+2023-12-08 13:28:47,988 - INFO - Establishing a network connection to IP: 192.168.200.143
+2023-12-08 13:28:48,000 - INFO - Network connection established: True
+2023-12-08 13:28:48,000 - INFO - Retrieving transaction logs for IP: 192.168.200.143 from 07/12/2023 13:28:47 to 08/12/2023 13:28:47
+2023-12-08 13:28:48,488 - INFO - Total logs retrieved: 12
+2023-12-08 13:28:48,488 - INFO - Finished
+2023-12-08 13:30:46,435 - INFO - Checking device status for IP: 192.168.200.143
+2023-12-08 13:30:46,488 - INFO - Device status: True
+2023-12-08 13:30:46,488 - INFO - Establishing a network connection to IP: 192.168.200.143
+2023-12-08 13:30:46,518 - INFO - Network connection established: True
+2023-12-08 13:30:46,518 - INFO - Retrieving transaction logs for IP: 192.168.200.143 from 07/12/2023 13:30:46 to 08/12/2023 13:30:46
+2023-12-08 13:30:46,952 - INFO - Total logs retrieved: 12
+2023-12-08 13:30:46,952 - INFO - Finished
+2023-12-08 13:32:33,419 - INFO - Checking device status for IP: 192.168.200.143
+2023-12-08 13:32:33,458 - INFO - Device status: True
+2023-12-08 13:32:33,458 - INFO - Establishing a network connection to IP: 192.168.200.143
+2023-12-08 13:32:33,474 - INFO - Network connection established: True
+2023-12-08 13:32:33,479 - INFO - Retrieving transaction logs for IP: 192.168.200.143 from 07/12/2023 13:32:33 to 08/12/2023 13:32:33
+2023-12-08 13:32:33,969 - INFO - Total logs retrieved: 12
+2023-12-08 13:32:33,969 - INFO - Finished
+2023-12-08 13:32:58,119 - INFO - Checking device status for IP: 192.168.200.143
+2023-12-08 13:32:58,149 - INFO - Device status: True
+2023-12-08 13:32:58,149 - INFO - Establishing a network connection to IP: 192.168.200.143
+2023-12-08 13:32:58,169 - INFO - Network connection established: True
+2023-12-08 13:32:58,169 - INFO - Retrieving transaction logs for IP: 192.168.200.143 from 07/12/2023 13:32:58 to 08/12/2023 13:32:58
+2023-12-08 13:32:58,658 - INFO - Total logs retrieved: 12
+2023-12-08 13:32:58,666 - INFO - Finished
+2023-12-08 13:33:19,463 - INFO - Checking device status for IP: 192.168.200.143
+2023-12-08 13:33:19,491 - INFO - Device status: True
+2023-12-08 13:33:19,491 - INFO - Establishing a network connection to IP: 192.168.200.143
+2023-12-08 13:33:19,512 - INFO - Network connection established: True
+2023-12-08 13:33:19,513 - INFO - Retrieving transaction logs for IP: 192.168.200.143 from 07/12/2023 13:33:19 to 08/12/2023 13:33:19
+2023-12-08 13:33:19,955 - INFO - Total logs retrieved: 12
+2023-12-08 13:33:19,958 - INFO - Finished
+2023-12-08 13:33:37,749 - INFO - Checking device status for IP: 192.168.200.143
+2023-12-08 13:33:37,799 - INFO - Device status: True
+2023-12-08 13:33:37,799 - INFO - Establishing a network connection to IP: 192.168.200.143
+2023-12-08 13:33:37,809 - INFO - Network connection established: True
+2023-12-08 13:33:37,809 - INFO - Retrieving transaction logs for IP: 192.168.200.143 from 07/12/2023 13:33:37 to 08/12/2023 13:33:37
+2023-12-08 13:33:38,326 - INFO - Total logs retrieved: 12
+2023-12-08 13:33:38,327 - INFO - Finished
+2023-12-08 13:40:46,536 - INFO - Checking device status for IP: 192.168.200.143
+2023-12-08 13:40:46,598 - INFO - Device status: True
+2023-12-08 13:40:46,598 - INFO - Establishing a network connection to IP: 192.168.200.143
+2023-12-08 13:40:46,621 - INFO - Network connection established: True
+2023-12-08 13:40:46,622 - INFO - Retrieving transaction logs for IP: 192.168.200.143 from 07/12/2023 13:40:46 to 08/12/2023 13:40:46
+2023-12-08 13:40:47,079 - INFO - Total logs retrieved: 12
+2023-12-08 13:40:47,079 - INFO - Finished
